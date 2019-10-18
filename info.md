@@ -1,16 +1,6 @@
-### uruguay Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
-
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
+* [Twitter](https://twitter.com/owasp_uy)
+* [Meetup](https://www.meetup.com/OWASP-Uruguay-Chapter)
 
 ### Change Log
 * [changes](#)
