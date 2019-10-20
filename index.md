@@ -23,12 +23,13 @@ Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibi
 * Patrocinios personales de los miembros
 
 ## ¿Cómo puedo participar?
-### Como individuo
-* Para sumarse al equipo de orrganización de OWASP Uruguay, <b>registrarse aquí:</b> <a href="https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM">Slack de OWASP</a> e ingresar al canal <a href="https://owasp.slack.com/messages/owasp-uruguay/">#uruguay-chapter</a>
-* Para sumarse al grupo de discusión de OWASP Uruguay, <b>registrarse aquí:</b> <a href="https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter">Google Group OWASP Uruguay</a>
-* Para sumarse a las meetups, <a href="https://www.meetup.com/OWASP-Uruguay-Chapter">OWASP Uruguay Meetup</a>
-* Además, pueden participar de eventos, reuniones de coordinación y participar en el crecimiento del capítulo local, difundir proyectos y colaborar con la presentación de proyectos en busca de fondos
-* O directamente realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
+
+### Individualmente
+* Sumándose al equipo de organización de OWASP Uruguay, [registrarse en Slack](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM) e ingresar al canal [#owasp-uruguay](https://owasp.slack.com/messages/owasp-uruguay/)
+* Sumándose al [grupo de discusión](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter) de OWASP Uruguay
+* En nuestras [Meetups](https://www.meetup.com/OWASP-Uruguay-Chapter)
+* Participando de eventos, reuniones de coordinación y participar en el crecimiento del capítulo local, difundir proyectos y colaborar con la presentación de proyectos en busca de fondos
+* Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
 
 ### Universidad o centro educativo
 Las universidades y centros educativos que apoyan a OWASP cuentan con los siguientes beneficios:
