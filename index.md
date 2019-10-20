@@ -1,19 +1,44 @@
 ---
-
 layout: col-sidebar
-title: OWASP uruguay
-tags: example-tag
-level: 4
-
+title: OWASP Uruguay
+tags: Uruguay
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# Sobre el capítulo OWASP Uruguay
+El capitulo OWASP Uruguay comenzó en el año 2010 con el fin de difundir temas de Seguridad en Aplicaciones en Uruguay. El fundador del capítulo en Uruguay es Mateo Martínez y actualmente el capítulo se gestiona en conjunto en formato de co-líderes; además se cuenta con un grupo estable de colaboradores que participan activamente en las actividades del capítulo local, organización de eventos y talleres.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+### Sin fines de lucro, organización de voluntarios:
+* Todos los miembros son voluntarios
+* Todo el trabajo es donado por los patrocinadores
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+### Proporcionar recursos gratuitos para la comunidad
+* Publicaciones, artículos, normas
+* Software de Testeo y Capacitación
+* Capítulos locales & Listas de correo
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+### Soportada a través de patrocinios
+* Apoyo financiero a través de empresas o patrocinadores
+* Patrocinios personales de los miembros
 
+## ¿Cómo puedo participar?
+### Como individuo
+* Para sumarse al equipo de orrganización de OWASP Uruguay, <b>registrarse aquí:</b> <a href="https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM">Slack de OWASP</a> e ingresar al canal <a href="https://owasp.slack.com/messages/owasp-uruguay/">#uruguay-chapter</a>
+* Para sumarse al grupo de discusión de OWASP Uruguay, <b>registrarse aquí:</b> <a href="https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter">Google Group OWASP Uruguay</a>
+* Para sumarse a las meetups, <a href="https://www.meetup.com/OWASP-Uruguay-Chapter">OWASP Uruguay Meetup</a>
+* Además, pueden participar de eventos, reuniones de coordinación y participar en el crecimiento del capítulo local, difundir proyectos y colaborar con la presentación de proyectos en busca de fondos
+* O directamente realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
+
+### Universidad o centro educativo
+Las universidades y centros educativos que apoyan a OWASP cuentan con los siguientes beneficios:
+* Aumentar la visibilidad de la universidad en todo el mundo
+* OWASP y la Universidad pueden conjuntamente organizar eventos que proporcionen a los estudiantes financiamiento para realizar investigaciones basadas en la seguridad de aplicaciones
+* OWASP y la Universidad pueden colaborar en la organización de seminarios para proporcionar sesiones de capacitación para estudiantes en herramientas OWASP, documentación y conocimientos de seguridad.
+
+ES SIN COSTO!
+
+Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Esto no implica la membresia individual u organizacional de los estudiantes y/o profesores de la Universidad. Sin embargo, se invita a todos los estudiantes y profesores a explorar los beneficios de convertirse en un miembro OWASP.
+
+### Empresa
+* Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
