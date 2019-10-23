@@ -2,6 +2,8 @@
 layout: col-sidebar
 title: OWASP Uruguay
 tags: Uruguay
+region: Latin America
+
 ---
 
 # Sobre el capítulo OWASP Uruguay
