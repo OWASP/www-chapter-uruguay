@@ -20,13 +20,16 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 * Integración y automatización de seguridad en procesos de desarrollo ágiles. [Guillermo Gabarrín](https://www.linkedin.com/in/guillermo-gabarrin/es) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1wyPVhfCcCqKEhEfSryI9esxfHJ0yG0BF/view?usp=sharing)
 
 #### Imagenes:
-{% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 %}
+{% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 id=2 %}
 
 
 ## 2018
 
 ### OWASP Day UTEC
 Se realizó en Durazno el OWASP Day UTEC el día 23 de octubre en la Universidad Tecnológica en su sede ITR Centro Sur.
+
+#### Imagenes:
+{% include carousel.md name="owasp_day_utec_2018" data=site.data.owasp_day_utec_2018 id=1 %}
 
 
 ### OWASP LATAM TOUR 2018
@@ -40,6 +43,73 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 * Attacking Wordpress plugins with no-style nor time. Ezequiel Tavella / Gabriel Franco (infobyte). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/14dJAafifDU-830RAmpvDWDnK5gsdZcAP/view?usp=sharing)
 
 #### Imagenes:
-{% include carousel.md name="owasp_day_utec_2018" data=site.data.owasp_day_utec_2018 %}
+{% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=0 %}
 <!-- TODO: agregaar más fotos de ambos eventos -->
 <!-- TODO: link a eventos anteriores -->
+
+<!-- CSS and JS needed for carousel -->
+<style>
+* {box-sizing: border-box}
+/* Must change when add one carousel */
+.latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019 {display: none; height: 600px}
+img {vertical-align: middle}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+</style>
+<script>
+/* Must change when add one carousel */
+var slideIndex = [1, 1, 1];
+/* Must change when add one carousel */
+var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019"]
+showSlides(1, 0);
+showSlides(1, 1);
+showSlides(1, 2);
+
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
+}
+
+function showSlides(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "flex";  
+}
+</script>
