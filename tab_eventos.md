@@ -9,6 +9,16 @@ tags: Uruguay
 
 ## 2019
 
+### 1era Meetup
+Se realizó la 1era Meetup el día 16 de noviembre en el Aulario de la Facultad de Ingeniería de la UdelaR.
+
+#### Presentaciones:
+* OWASP y OWASP UY: introducción y 2020. [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1KWmiBMCsW7dCHtYsqBb7DSBnYgvSJG-k/view?usp=sharing)
+
+#### Imagenes:
+{% include carousel.md name="meetup_2019" data=site.data.meetup_2019 id=3 %}
+
+
 ### OWASP LATAM TOUR 2019
 Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la Universidad Católica del Uruguay.
 
@@ -21,6 +31,7 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 
 #### Imagenes:
 {% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 id=2 %}
+
 
 
 ## 2018
@@ -44,14 +55,13 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 
 #### Imagenes:
 {% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=0 %}
-<!-- TODO: agregaar más fotos de ambos eventos -->
 <!-- TODO: link a eventos anteriores -->
 
 <!-- CSS and JS needed for carousel -->
 <style>
 * {box-sizing: border-box}
 /* Must change when add one carousel */
-.latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019 {display: none; height: 600px}
+.latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019 {display: none; height: 600px}
 img {vertical-align: middle}
 
 /* Slideshow container */
@@ -91,12 +101,13 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1];
+var slideIndex = [1, 1, 1, 1];
 /* Must change when add one carousel */
-var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019"]
+var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019"]
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
+showSlides(1, 3);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);

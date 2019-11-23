@@ -1,5 +1,5 @@
 ### Próximo evento
-[1era Meetup OWASP UY](http://meetu.ps/e/Hlvq0/lrDY8/a), Sabado 16 de Noviembre de 14 a 16, en el Aulario de la Facultad de Ingeniería de la UdelaR
+TBD
 
 ### Redes sociales (social links)
 * [Slack](https://owasp.slack.com/messages/owasp-uruguay/) (canal de organización)
