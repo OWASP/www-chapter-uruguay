@@ -10,6 +10,7 @@ tags: Uruguay
 Debajo se enceuntran los links a las minutas de cada reunión.
 
 ## 2019
+* [Uruguay-Minuta-16-Oct-2019](https://docs.google.com/document/d/1li2la1QSotFxcYYlh3VWm9SV5zDtdKVXEcfWkqV9ny4/edit?usp=sharing)
 * [Uruguay-Minuta-29-Mar-2019](https://drive.google.com/a/owasp.org/file/d/1st1KMSwJkKPNDANFZTkne9-4LMMAYzGM/view?usp=sharing)
 * [Uruguay-Minuta-25-Ene-2019](https://drive.google.com/a/owasp.org/file/d/1iyMd8BG3FMqjICMEpSDjHO83sERm_6Ky/view?usp=sharing)
 
