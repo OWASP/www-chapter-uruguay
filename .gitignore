@@ -4,3 +4,4 @@ env
 .jekyll-metadata
 Gemfile.lock
 _site
+.ruby-version
