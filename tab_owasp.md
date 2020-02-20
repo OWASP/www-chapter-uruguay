@@ -18,11 +18,11 @@ Debajo se listan los proyectos que se categorizan como proyectos Flagship.
 
 ### Herramientas
 * [OWASP Zed Attack Proxy](https://www.owasp.org/www-project-zap)
-* [OWASP Web Testing Environment Project](https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project)
-* [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
-* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
-* [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd)
-* [OWASP DefectDojo Project](https://www.owasp.org/index.php/OWASP_DefectDojo_Project)
+* [OWASP Web Testing Environment Project](https://wiki.owasp.org/index.php/OWASP_Web_Testing_Environment_Project)
+* [OWASP OWTF](https://wiki.owasp.org/index.php/OWASP_OWTF)
+* [OWASP Dependency Check](https://wiki.owasp.org/index.php/OWASP_Dependency_Check)
+* [OWASP Security Shepherd](https://wiki.owasp.org/index.php/OWASP_Security_Shepherd)
+* [OWASP DefectDojo Project](https://wiki.owasp.org/index.php/OWASP_DefectDojo_Project)
 * [OWASP Juice Shop Project](https://www.owasp.org/www-project-juice-shop)
 * [OWASP Security Knowledge Framework](https://www.owasp.org/www-project-security-knowledge-framework)
 * [OWASP Dependency Track Project](https://www.owasp.org/www-project-dependency-track)
@@ -32,14 +32,14 @@ Debajo se listan los proyectos que se categorizan como proyectos Flagship.
 * [OWASP CSRFGuard Project](https://www.owasp.org/www-project-csrfguard)
 
 ### Documentación
-* [OWASP Application Security Verification Standard Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
-* [OWASP Software Assurance Maturity Model (SAMM)](https://www.owasp.org/www-project-samm)
-* [OWASP AppSensor Project](https://www.owasp.org/index.php/OWASP_AppSensor_Project)
-* [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+* [OWASP Application Security Verification Standard Project](https://wiki.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
+* [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org)
+* [OWASP AppSensor Project](https://wiki.owasp.org/index.php/OWASP_AppSensor_Project)
+* [OWASP Top Ten Project](https://wiki.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 * [OWASP Testing Project](https://www.owasp.org/www-project-testing)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/www-project-cheat-sheets)
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/www-project-mobile-security-testing-guide)
-* [OWASP Mobile Application Security Verification Standard](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+* [OWASP Mobile Application Security Verification Standard](https://wiki.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 
 ## Capítulos Locales
 * Comunidades interesadas en Seguridad de Aplicaciones
