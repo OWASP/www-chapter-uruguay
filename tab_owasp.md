@@ -36,7 +36,7 @@ Debajo se listan los proyectos que se categorizan como proyectos Flagship.
 * [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org)
 * [OWASP AppSensor Project](https://wiki.owasp.org/index.php/OWASP_AppSensor_Project)
 * [OWASP Top Ten Project](https://owasp.org/www-project-top-ten/)
-* [OWASP Testing Project](https://www.owasp.org/www-project-testing)
+* [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/www-project-cheat-sheets)
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/www-project-mobile-security-testing-guide)
 * [OWASP Mobile Application Security Verification Standard](https://owasp.org/www-project-mobile-security-testing-guide/)
