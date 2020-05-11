@@ -10,11 +10,11 @@ tags: Uruguay
 ## 2020
 
 ### OWASP LATAM at Home 2020
-Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
+Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera presencial y lo cual dió pie para realizar un evento con las mismas características pero de manera Virtual y con organización conjunta de los capítulos OWASP en LATAM.
 
-Información sobre las charlas y talleres [aquí](https://owasp.org/www-event-2020-latam-at-home/)
+[Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
-Registro [aquí](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=jLXMbpcrPyA&list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
 
 
 

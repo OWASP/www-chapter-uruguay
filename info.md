@@ -1,7 +1,5 @@
 ### Próximo evento
-* OWASP LATAM at Home 2020<br>
-Información [aquí](https://owasp.org/www-event-2020-latam-at-home/)<br>
-Registro [aquí](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974)
+TBA
 
 ### Redes sociales (social links)
 * [Slack](https://owasp.slack.com/messages/owasp-uruguay/) (canal de organización)
