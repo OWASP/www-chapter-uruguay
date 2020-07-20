@@ -6,7 +6,6 @@
 ### Grupo estable de colaboradores
 * Enrique Rossel
 * [Gerardo Canedo](mailto://gerardo.canedo@owasp.org)
-* [Martín Marsicano](mailto://martin.marsicano@owasp.org)
 * [Pablo Alzuri](mailto://pablo.alzuri@owasp.org)
 * [Rodrigo Martinez](mailto://rodrigo.martinez@owasp.org)
 * [Mateo Martínez](mailto://mateo.martinez@owasp.org)
