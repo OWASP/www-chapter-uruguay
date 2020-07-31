@@ -3,6 +3,9 @@ layout: col-sidebar
 title: OWASP Uruguay
 tags: Uruguay
 region: South America
+meetup-group: OWASP-Uruguay-Chapter
+country: Uruguay
+postal-code: 
 
 ---
 
