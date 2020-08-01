@@ -14,7 +14,7 @@ Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera pre
 
 [Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
-Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=jLXMbpcrPyA&list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
+Vuelve a ver las charlas [aquí](https://www.youtube.com/playlist?list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
 
 
 
@@ -114,7 +114,7 @@ img {vertical-align: middle}
 /* Must change when add one carousel */
 var slideIndex = [1, 1, 1, 1];
 /* Must change when add one carousel */
-var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019"]
+var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019"];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
