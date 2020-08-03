@@ -8,7 +8,7 @@ tags: Uruguay
 
 # Reuniones de organización del capítulo
 
-Debajo se enceuntran los links a las minutas de cada reunión.
+Debajo se encuentran los links a las minutas de cada reunión.
 
 ## 2020
 
@@ -23,7 +23,7 @@ Debajo se enceuntran los links a las minutas de cada reunión.
 
 ## Años anteriores
 
-<!-- TODO: pasar estas páginas a la versión nueva? -->
+<!-- TODO: pasar estas páginas a la nueva versión? -->
 * [Uruguay-Minuta-25-jan-2019](https://wiki.owasp.org/index.php/Uruguay-Minuta-25-jan-2019)
 * [Uruguay-Minuta-5-sep-2014](https://wiki.owasp.org/index.php/Uruguay-Minuta-5-sep-2014)
 * [Uruguay-Minuta-6-feb-2014](https://wiki.owasp.org/index.php/Uruguay-Minuta-6-feb-2014)
