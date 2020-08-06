@@ -12,8 +12,9 @@ Debajo se encuentran los links a las minutas de cada reunión.
 
 ## 2020
 
-* [Uruguay-Minuta-19-Feb-2020](https://docs.google.com/document/d/18vBPwVoVTof6ZFmQNsdLl12N1QA2U4JrO9Zxc7LWkh4/edit?usp=sharing)
+* [Uruguay-Minuta-05-Ago-2020](https://docs.google.com/document/d/10Qs5LpriLC3nFtprXjyuHeH-OQakpOqwTqeNnbL4SXk/edit?usp=sharing)
 * [Uruguay-Minuta-24-Jul-2020](https://docs.google.com/document/d/16xPaFtwEcOMyYOppSsDLZIVZxJeZPaZ_P5k22Xy_Q8Q/edit?usp=sharing)
+* [Uruguay-Minuta-19-Feb-2020](https://docs.google.com/document/d/18vBPwVoVTof6ZFmQNsdLl12N1QA2U4JrO9Zxc7LWkh4/edit?usp=sharing)
 
 ## 2019
 
