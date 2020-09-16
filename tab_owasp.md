@@ -14,7 +14,8 @@ tags: Uruguay
 * Un recurso gratuito para cualquier equipo de desarrollo de software
 
 ## ¿Qué ofrece OWASP?
-Debajo se listan los proyectos que se categorizan como proyectos Flagship.
+Debajo se listan los proyectos que se categorizan como proyectos Flagship. Debajo se listan los proyectos que se categorizan como proyectos Flagship. <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'>
+
 
 ### Herramientas
 * [OWASP Zed Attack Proxy](https://owasp.org/www-project-zap)

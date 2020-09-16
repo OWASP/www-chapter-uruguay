@@ -1,8 +1,8 @@
 # WWW Chapter Uruguay
 
-Repositorio para la página del capítulo de OWASP Uruguay [www-chapter-uruguay](https://www.owasp.org/www-chapter-uruguay/). 
+Repositorio para la página del capítulo Uruguay de OWASP [chapter-uruguay](https://www.owasp.org/www-chapter-uruguay/). 
 
-The OWASP home for Uruguay project which can be found at: [www-chapter-uruguay](https://www.owasp.org/www-chapter-uruguay/).
+The OWASP home for Uruguay chapter which can be found at: [chapter-uruguay](https://www.owasp.org/www-chapter-uruguay/).
 
 ## Como probar los cambios
 Para levantar un servidor con el código local debes serguir los siguientes pasos:
