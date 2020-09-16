@@ -9,6 +9,20 @@ tags: Uruguay
 
 ## 2020
 
+### Meetup 03/09 - Workshop ZAP y Defect Dojo
+Se realizó un Workshop virtual en donde se mostraron las herramientas Flagship de OWASP, ZAP y Defect Dojo
+
+#### Presentaciones:
+* ZAP [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1qhvtCQTBHwQQ9NS7_VQZh8r67kC4DyQZCpTHqA7sy2w/edit?usp=sharing)
+* Defect Dojo [Felipe Zipitria](https://uy.linkedin.com/in/felipezipitria) (OWASP Uruguay).
+
+#### Repositorio Github:
+[ZAP-DD_Workshop](htps://github.com/OWASP-Uruguay/ZAP-DD-Workshop)
+
+#### Grabación:
+[YouTube](https://www.youtube.com/watch?v=F7TM3pDhIeA)
+
+
 ### OWASP LATAM at Home 2020
 Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características pero de manera Virtual y con organización conjunta de los capítulos de OWASP en LATAM.
 

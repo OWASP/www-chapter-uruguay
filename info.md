@@ -13,4 +13,6 @@
 * [Google Group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter)
 * [Meetup](https://www.meetup.com/OWASP-Uruguay-Chapter)
 * [Twitter](https://twitter.com/owasp_uy)
+* [Github](https://github.com/OWASP-Uruguay)
+* [YouTube](https://www.youtube.com/channel/UC0-Z2Mufb062rREkmmEHTHQ)
 * [LinkedIn](https://www.linkedin.com/groups/3673287/)
