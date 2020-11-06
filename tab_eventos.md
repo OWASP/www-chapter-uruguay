@@ -9,6 +9,17 @@ tags: Uruguay
 
 ## 2020
 
+### Meetup 05/11 - Requerimientos de seguridad y cómo probarlos: OWASP (A/MA)SVS y (W/M)STG
+Se realizó una Meetup virtual en donde se contó acerca de los requerimientos de seguridad y el uso de los estándares que forman parte de los proyectos de documentación Flagships de OWASP.
+
+Para aplicaciones web el Application Security Verification Standard y para seguridad móvil el Mobile Application Security Verification Standard y para probar dichos requerimientos se contó un poco sobre las guías de testing para web, la Web Security Testing Guide y para móvil la Mobile Security Testing Guide.
+
+#### Presentación:
+* Requerimientos de seguridad y cómo probarlos [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) y [Gerardo Canedo](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1peMcFswJK4mlG9KhDcT-olTCjNCz5YFa/view?usp=sharing)
+
+#### Grabación:
+[YouTube](https://youtu.be/KK-_wjOs4dY)
+
 ### Meetup 03/09 - Workshop ZAP y Defect Dojo
 Se realizó un Workshop virtual en donde se mostraron las herramientas Flagship de OWASP, ZAP y Defect Dojo
 
