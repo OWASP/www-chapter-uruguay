@@ -9,6 +9,20 @@ tags: Uruguay
 
 ## 2020
 
+### Meetup 03/12 - Workshop OWASP AntiSamy y SonarQube 101
+Se realizó una Meetup virtual en donde se contó acerca de del proyecto OWASP AntiSamy y sobre la herramienta de SAST SonarQube.
+
+#### Presentaciones:
+* Workshop AntiSamy [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro-50057342) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
+* SonarQube 101 [Maximiliano Alonzo](https://uy.linkedin.com/in/maximiliano-alonzo-18075720) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1z_ztxxj1O4oydbb2j_MvZcMuytbka-bO/view?usp=sharing)
+
+#### Repositorio Github:
+[AntiSamy-SonarQube-Workshop](https://github.com/OWASP-Uruguay/AntiSamy-SonarQube-Workshop)
+
+#### Grabación:
+[YouTube](https://youtu.be/fAWsSmwVje0)
+
+
 ### Meetup 05/11 - Requerimientos de seguridad y cómo probarlos: OWASP (A/MA)SVS y (W/M)STG
 Se realizó una Meetup virtual en donde se contó acerca de los requerimientos de seguridad y el uso de los estándares que forman parte de los proyectos de documentación Flagships de OWASP.
 
@@ -19,6 +33,7 @@ Para aplicaciones web el Application Security Verification Standard y para segur
 
 #### Grabación:
 [YouTube](https://youtu.be/KK-_wjOs4dY)
+
 
 ### Meetup 03/09 - Workshop ZAP y Defect Dojo
 Se realizó un Workshop virtual en donde se mostraron las herramientas Flagship de OWASP, ZAP y Defect Dojo
