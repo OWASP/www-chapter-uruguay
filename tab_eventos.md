@@ -9,6 +9,16 @@ tags: Uruguay
 
 ## 2020
 
+### Jornada de Colaboración - AntiSamy
+En esta jornada de colaboración se agregó en la versión Java del proyecto AntiSamy el chequeo mediante xsd de la correctitud de los xml de las reglas, que [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro-50057342) (OWASP Uruguay) agregó en la versión .Net cuando retomó el proyecto y le hizo varias mejoras.
+
+#### Repositorio Github:
+[Branch en el que se trabajo para hacer el Pull Request](https://github.com/OWASP-Uruguay/antisamy/tree/1.6.0)
+[AntySamy](https://owasp.org/www-project-antisamy/)
+[AntySamy Java](https://github.com/nahsra/antisamy)
+[AntiSamy .Net](https://github.com/spassarop/antisamy-dotnet)
+
+
 ### Meetup 03/12 - Workshop OWASP AntiSamy y SonarQube 101
 Se realizó una Meetup virtual en donde se contó acerca de del proyecto OWASP AntiSamy y sobre la herramienta de SAST SonarQube.
 
