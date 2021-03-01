@@ -30,7 +30,7 @@ Buscamos difundir temas de Seguridad en Aplicaciones, concientizar y sensibiliza
 ## ¿Cómo puedo participar?
 
 ### Individualmente
-* Sumándose al equipo de organización de OWASP Uruguay, [registrarse en Slack](https://owasp-slack.herokuapp.com/)
+* Sumándose al equipo de organización de OWASP Uruguay, [registrarse en Slack](https://owasp.org/slack/invite)
 * Sumándose al [grupo de discusión](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter) de OWASP Uruguay
 * En nuestras [Meetups](https://www.meetup.com/OWASP-Uruguay-Chapter)
 * Colaborando en los repositorios del capítulo en [Github](https://github.com/OWASP-Uruguay)
