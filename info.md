@@ -10,6 +10,7 @@
 
 ### Redes sociales (social links)
 * [Slack](https://owasp.slack.com/messages/owasp-uruguay/) (canal de organización)
+* [Registro Slack](https://owasp.org/slack/invite)
 * [Google Group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter)
 * [Meetup](https://www.meetup.com/OWASP-Uruguay-Chapter)
 * [Twitter](https://twitter.com/owasp_uy)
