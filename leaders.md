@@ -1,9 +1,9 @@
-### Co-Líderes
+### Leaders
 * [Martín Marsicano](mailto://martin.marsicano@owasp.org)
 * [Maximiliano Alonzo](mailto://maximiliano.alonzo@owasp.org)
 * [Guillermo Talento](mailto://guillermo.talento@owasp.org)
 
-### Grupo estable de colaboradores
+### Board members
 * [Enrique Rossel](mailto:enrique.rossel@owasp.org)
 * [Felipe Zipitría](mailto://felipe.zipitria@owasp.org)
 * [Gerardo Canedo](mailto://gerardo.canedo@owasp.org)
