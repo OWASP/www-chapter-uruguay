@@ -17,3 +17,6 @@
 * [Github](https://github.com/OWASP-Uruguay)
 * [YouTube](https://www.youtube.com/channel/UC0-Z2Mufb062rREkmmEHTHQ)
 * [LinkedIn](https://www.linkedin.com/groups/3673287/)
+
+### Twitter Feed
+<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/owasp_uy?ref_src=twsrc%5Etfw">OWASP UY en Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
