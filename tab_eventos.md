@@ -7,6 +7,31 @@ tags: Uruguay
 ---
 # Eventos
 
+## 2021
+
+### Jornada de Colaboración - OWASP SAMM i18n y explicación Crowdin
+En esta jornada de colaboración se explicó el proceso de traducción de OWASP SAMM, se introdujo al uso de la plataforma Crowdin y al ir traduciendo algunos archivos se fue creando un glosario para ayudar a la sincronización.
+
+#### Participantes:
+Domingo Mendivil, Martín Marsicano, Patricia Duarte, Rommel Oramas, Sebastian Passaro
+
+#### Grabación:
+[YouTube](https://youtu.be/zIxhgMO6IY4)
+
+#### Presentación y links para la traducción:
+* Introducción a SAMM, el proceso de traducción y Crowdin. Presentación [aquí](https://docs.google.com/presentation/d/1Fh7ocdC8_SnFk2HrVyP88JaIcvkPMFDKNc9qjqmod60/edit?usp=sharing)
+* [Glosario](https://docs.google.com/document/d/1d-XjUCz-SLRKmjRjipP9O3IIFl7uY8PYoOvc8U_gE3Q/edit?usp=sharing)
+* [Crowdin](https://crowdin.com/project/owasp-samm/es-ES#)
+* [Drive de la joranda](https://drive.google.com/drive/folders/1cr8Ogn1zKfTBNtN7XlzRaqSxNK9JwODK?usp=sharing) 
+* [Versión 1.0 en ingles](https://opensamm.org/downloads/SAMM-1.0.pdf)
+* [Versión 1.0 en español](https://opensamm.org/downloads/SAMM-1.0-es_MX.pdf)
+
+#### Páginas de SAMM: 
+* [Página de SAMM](https://owaspsamm.org/)
+* [Página de SAMM en el sitio de OWASP](https://owasp.org/www-project-samm/)
+
+
+
 ## 2020
 
 ### Jornada de Colaboración - AntiSamy
@@ -18,6 +43,8 @@ En esta jornada de colaboración se agregó en la versión Java del proyecto Ant
 [AntySamy Java](https://github.com/nahsra/antisamy)
 [AntiSamy .Net](https://github.com/spassarop/antisamy-dotnet)
 
+#### Participantes:
+Gerardo Canedo, Martín Marsicano, Sebastian Passaro
 
 ### Meetup 03/12 - Workshop OWASP AntiSamy y SonarQube 101
 Se realizó una Meetup virtual en donde se contó acerca de del proyecto OWASP AntiSamy y sobre la herramienta de SAST SonarQube.
