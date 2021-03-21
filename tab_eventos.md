@@ -9,7 +9,7 @@ tags: Uruguay
 
 ## 2021
 
-### Jornada de Colaboración - AntiSamy
+### Jornada de Colaboración - OWASP SAMM i18n y explicación Crowdin
 En esta jornada de colaboración se explicó el proceso de traducción de OWASP SAMM, se introdujo al uso de la plataforma Crowdin y al ir traduciendo algunos archivos se fue creando un glosario para ayudar a la sincronización.
 
 #### Participantes:
