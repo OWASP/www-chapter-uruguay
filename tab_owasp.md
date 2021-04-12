@@ -14,33 +14,83 @@ tags: Uruguay
 * Un recurso gratuito para cualquier equipo de desarrollo de software
 
 ## ¿Qué ofrece OWASP?
-Debajo se listan los proyectos que se categorizan como proyectos Flagship. Debajo se listan los proyectos que se categorizan como proyectos Flagship. <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'>
+<div id='all-projects' class='projects-list'>
+    <h3>Listado de proyectos según <a id="projects-level" class='active'>Nivel</a> ó <a id="projects-type" class='inactive'>Tipo</a></h3>
+    <div id="project-list-level" class='project-list'>
+        {% assign fs_projects = site.data.owaspprojects | where:'level', '4' %}
+        {% assign l_projects = site.data.owaspprojects | where:'level', '3' %}
+        {% assign i_projects = site.data.owaspprojects | where:'level', '2' %}
+        <h3>Proyectos Flagship <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
+        <ul>
+        {% for project in fs_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <h3>Proyectos Laboratorio <img src='https://owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
+        <ul>
+        {% for project in l_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <h3>Proyectos en Incubación <img src='https://owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h3>
+        <ul>
+        {% for project in i_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div id="project-list-type" style='display:none;'>
+        {% assign tool_projects = site.data.owaspprojects | where:'type', 'tool' %}
+        {% assign documentation_projects = site.data.owaspprojects | where:'type', 'documentation' %}
+        {% assign code_projects = site.data.owaspprojects | where:'type', 'code' %}
+        {% assign other_projects = site.data.owaspprojects | where:'type', 'other' %}
+        <h2>Herramientas <i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
+        <ul>
+        {% for project in tool_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <h2>Documentación <i style="margin-left:12px;" class="fa fa-file-alt fa-lg"></i></h2>
+        <ul> 
+        {% for project in documentation_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <h2>Código <i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
+        <ul>
+        {% for project in code_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <h2>Otros </h2>
+        <ul>
+        {% for project in other_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function(){
+        $('#projects-type').click(function(){
+            $('#project-list-level').hide();
+            $('#project-list-type').show();
+            $('#projects-level').removeClass('active');
+            $('#projects-type').addClass('active');
+            $('#projects-level').addClass('inactive');
+            $('#projects-type').removeClass('inactive');
+        });
+        $('#projects-level').click(function(){
+            $('#project-list-type').hide();
+            $('#project-list-level').show();
+            $('#projects-type').removeClass('active');
+            $('#projects-level').addClass('active');
+             $('#projects-level').removeClass('inactive');
+            $('#projects-type').addClass('inactive');
+        });
+    });
+</script>
 
-
-### Herramientas
-* [OWASP Zed Attack Proxy](https://owasp.org/www-project-zap)
-* [OWASP Web Testing Environment Project](https://wiki.owasp.org/index.php/OWASP_Web_Testing_Environment_Project)
-* [OWASP OWTF](https://owasp.org/www-project-owtf/)
-* [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
-* [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/)
-* [OWASP DefectDojo Project](https://owasp.org/www-project-defectdojo/)
-* [OWASP Juice Shop Project](https://owasp.org/www-project-juice-shop)
-* [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework)
-* [OWASP Dependency Track Project](https://owasp.org/www-project-dependency-track)
-
-### Código
-* [OWASP ModSecurity Core Rule Set Project](https://owasp.org/www-project-modsecurity-core-rule-set)
-* [OWASP CSRFGuard Project](https://owasp.org/www-project-csrfguard)
-
-### Documentación
-* [OWASP Application Security Verification Standard Project](https://owasp.org/www-project-application-security-verification-standard/)
-* [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org)
-* [OWASP AppSensor Project](https://wiki.owasp.org/index.php/OWASP_AppSensor_Project)
-* [OWASP Top Ten Project](https://owasp.org/www-project-top-ten/)
-* [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide)
-* [OWASP Cheat Sheet Series](https://owasp.org/www-project-cheat-sheets)
-* [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide)
-* [OWASP Mobile Application Security Verification Standard](https://owasp.org/www-project-mobile-security-testing-guide/)
 
 ## Capítulos Locales
 * Comunidades interesadas en Seguridad de Aplicaciones
