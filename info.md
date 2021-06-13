@@ -20,3 +20,13 @@
 
 ### Twitter Feed
 <a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/owasp_uy?ref_src=twsrc%5Etfw">OWASP UY en Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Board members
+* [Enrique Rossel](mailto:enrique.rossel@owasp.org)
+* [Felipe Zipitría](mailto:felipe.zipitria@owasp.org)
+* [Gerardo Canedo](mailto:gerardo.canedo@owasp.org)
+* [Mateo Martínez](mailto:mateo.martinez@owasp.org)
+* [Mauro Flores](mailto:mauro.flores@owasp.org)
+* [Pablo Alzuri](mailto:pablo.alzuri@owasp.org)
+* [Rodrigo Martinez](mailto:rodrigo.martinez@owasp.org)
