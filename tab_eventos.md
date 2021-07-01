@@ -7,6 +7,14 @@ tags: Uruguay
 ---
 # Eventos
 
+## Próximos eventos
+
+### OWASP 20th Anniversary
+<a href="https://20thanniversary.owasp.org/"><img src="assets/images/20TH_ANNIVERSARY/20thannivbanner.png"></a>
+
+### OWASP LATAM@Home 2021
+<a href="https://owasp.org/www-event-2021-latam-at-home/"><img src="assets/images/LATAM_AT_HOME_2021/LatamAtHome-banner.png"></a>
+
 ## 2021
 
 ### Jornada de Colaboración - OWASP SAMM i18n y explicación Crowdin
