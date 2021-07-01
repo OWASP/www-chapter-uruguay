@@ -9,7 +9,7 @@ tags: Uruguay
 
 ## Próximos eventos
 
-### OWASP 20th Annyversary
+### OWASP 20th Anniversary
 <a href="https://20thanniversary.owasp.org/"><img src="assets/images/20TH_ANNIVERSARY/20thannivbanner.png"></a>
 
 ### OWASP LATAM@Home 2021
