@@ -11,6 +11,7 @@ tags: Uruguay
 Debajo se encuentran los links a las minutas de cada reunión.
 
 ## 2021
+* [Uruguay-Minuta-03-aug-2021](https://docs.google.com/document/d/1uVILMoYSH_mLcaUB-_4jtKS9YAq-df9mWt_SPnaoXt4/edit?usp=sharing)
 * [Uruguay-Minuta-06-jul-2021](https://docs.google.com/document/d/14yD9zIVjJLw7JnGUqSSdlc7QtcIadOOdaeJVMH9JdbQ/edit?usp=sharing)
 * [Uruguay-Minuta-03-jun-2021](https://docs.google.com/document/d/1SlmfNVeoay_FCAliiq3F56NH9gSE71oB33-1iZUVgX0/edit?usp=sharing)
 * [Uruguay-Minuta-06-may-2021](https://docs.google.com/document/d/11bHL_J0nfE-MfRjDnKeGYPvw74pOv3XifOtk3GPSZ-A/edit?usp=sharing)
@@ -23,7 +24,7 @@ Debajo se encuentran los links a las minutas de cada reunión.
 * [Uruguay-Minuta-04-nov-2020](https://docs.google.com/document/d/1auG-a3KWIq8n8EgEtIqqez1Z2E65kWSXboMO3Q3CLdA/edit?usp=sharing)
 * [Uruguay-Minuta-07-oct-2020](https://docs.google.com/document/d/1tHLzHCR-7Cypq5D1pEpgGrdtJQp_NEi51OniM-5derE/edit?usp=sharing)
 * [Uruguay-Minuta-02-sep-2020](https://docs.google.com/document/d/1-__XTyq9ADk9Y2kP7Pv86OjwBCohHMF0LZpnBLfJGdY/edit?usp=sharing)
-* [Uruguay-Minuta-05-ago-2020](https://docs.google.com/document/d/10Qs5LpriLC3nFtprXjyuHeH-OQakpOqwTqeNnbL4SXk/edit?usp=sharing)
+* [Uruguay-Minuta-05-aug-2020](https://docs.google.com/document/d/10Qs5LpriLC3nFtprXjyuHeH-OQakpOqwTqeNnbL4SXk/edit?usp=sharing)
 * [Uruguay-Minuta-24-jul-2020](https://docs.google.com/document/d/16xPaFtwEcOMyYOppSsDLZIVZxJeZPaZ_P5k22Xy_Q8Q/edit?usp=sharing)
 * [Uruguay-Minuta-19-feb-2020](https://docs.google.com/document/d/18vBPwVoVTof6ZFmQNsdLl12N1QA2U4JrO9Zxc7LWkh4/edit?usp=sharing)
 
