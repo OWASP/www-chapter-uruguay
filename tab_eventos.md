@@ -11,11 +11,33 @@ tags: Uruguay
 
 ### OWASP 20th Anniversary
 <a href="https://20thanniversary.owasp.org/"><img src="assets/images/20TH_ANNIVERSARY/20thannivbanner.png"></a>
+Fecha: 24 de setiembre del 2021
 
-### OWASP LATAM@Home 2021
-<a href="https://owasp.org/www-event-2021-latam-at-home/"><img src="assets/images/LATAM_AT_HOME_2021/LatamAtHome-banner.png"></a>
+
+### OWASP Virtual Global AppSec US 2021
+<a href="https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tickets-162096600295"><img src="assets/images/GLOBAL_APPSEC_2021/GlobalAppSecUS2021.jpeg"></a>
+Fecha: 11 y 12 de noviembre del 2021
+
+
 
 ## 2021
+
+### Meetup 19/08 - SDLC con OWASP: Introducción y training
+Se realizó una Meetup virtual en donde se realizó una introducción a la serie de charlas SDLC con OWASP que se estará realizando de parte del equipo de OWASP Uruguay. Además, se introdujo al proyecto que se está creando y que se utilizará para guiar la serie de charlas. También se realizó un laboratorio con OWASP Juice Shop utilizando Multi-Juicer.
+
+#### Presentaciones:
+* Introducción [Martín Marsicano](https://www.linkedin.com/in/martinmarsicano/) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1BBBl6Hsy11zp5nVjYgTT-AgOyWlLPw2A/edit?usp=sharing)
+* Laboratorio con Juice Shop [Pablo Alzuri](https://uy.linkedin.com/in/palzuri) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/19zunY0MnyDvY5_K-ciWbIupb80fGBDtg/edit?usp=sharing)
+
+#### Grabación:
+[YouTube](https://www.youtube.com/watch?v=OAE1EnBNMlc)
+
+
+### OWASP LATAM@Home 2021
+[Sitio del evento](https://owasp.org/www-event-2021-latam-at-home/)
+
+Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=wYhqYyFsrrE&list=PLiooNakZQW8pgLea7Ke7byyuKDH8AfFp1)
+
 
 ### Jornada de Colaboración - OWASP SAMM i18n y explicación Crowdin
 En esta jornada de colaboración se explicó el proceso de traducción de OWASP SAMM, se introdujo al uso de la plataforma Crowdin y al ir traduciendo algunos archivos se fue creando un glosario para ayudar a la sincronización.
@@ -53,6 +75,7 @@ En esta jornada de colaboración se agregó en la versión Java del proyecto Ant
 
 #### Participantes:
 Gerardo Canedo, Martín Marsicano, Sebastian Passaro
+
 
 ### Meetup 03/12 - Workshop OWASP AntiSamy y SonarQube 101
 Se realizó una Meetup virtual en donde se contó acerca de del proyecto OWASP AntiSamy y sobre la herramienta de SAST SonarQube.
@@ -99,8 +122,7 @@ Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera pre
 
 [Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
-Vuelve a ver las charlas [aquí](https://www.youtube.com/playlist?list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
-
+Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=jLXMbpcrPyA&list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU)
 
 
 ## 2019
