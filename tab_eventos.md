@@ -9,14 +9,8 @@ tags: Uruguay
 
 ## Próximos eventos
 
-### OWASP 20th Anniversary
-<a href="https://20thanniversary.owasp.org/"><img src="assets/images/20TH_ANNIVERSARY/20thannivbanner.png"></a>
-Fecha: 24 de setiembre del 2021
-
-
-### OWASP Virtual Global AppSec US 2021
-<a href="https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tickets-162096600295"><img src="assets/images/GLOBAL_APPSEC_2021/GlobalAppSecUS2021.jpeg"></a>
-Fecha: 11 y 12 de noviembre del 2021
+### OWASP Top 10 2021
+TBA
 
 
 
