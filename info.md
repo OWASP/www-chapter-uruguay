@@ -30,3 +30,4 @@
 * [Mauro Flores](mailto:mauro.flores@owasp.org)
 * [Pablo Alzuri](mailto:pablo.alzuri@owasp.org)
 * [Rodrigo Martinez](mailto:rodrigo.martinez@owasp.org)
+* [Sebastián Passaro](mailto:sebastian.passaro@owasp.org)
