@@ -9,8 +9,8 @@ tags: Uruguay
 
 ## Próximos eventos
 
-### OWASP Top 10 2021
-TBA
+### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP
+El Jueves 26 de Mayo vuelven los OWASP Day! Hablaremos del OWASP Top 10 2021 y seguiremos con el ciclo de charlas de SDLC con OWASP. El link al evento es [OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP](https://www.meetup.com/OWASP-Uruguay-Chapter/events/285988342?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link).
 
 
 
