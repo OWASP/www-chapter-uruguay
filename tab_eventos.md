@@ -9,8 +9,12 @@ tags: Uruguay
 
 ## Próximos eventos
 
-### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP
-Próximamente anunciaremos la nueva fecha para la vuelta de los OWASP Day! Hablaremos del OWASP Top 10 2021 y seguiremos con el ciclo de charlas de SDLC con OWASP. El link al evento es.
+### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
+Fecha: Jueves 28 de Julio
+Hora: 18:30 a 21:00
+Lugar: [SINERGIA Faro](https://workspace.sinergia.uy/faro), Víctor Soliño 349 (ex hotel Sheraton en Punta Carretas)
+Hablaremos del OWASP Top 10 2021 y seguiremos con el ciclo de charlas de SDLC con OWASP. El link al evento es.
+Más información en [Meetup](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/)
 
 [//]: # (Link a la planilla para el práctico del SKF [aquí]&#40;https://docs.google.com/spreadsheets/d/1GxnSXhqgeAmY5-0mdOHrOxfBZuCC2NaWhJSf4bHZjaw/edit?usp=sharing&#41;)
 
