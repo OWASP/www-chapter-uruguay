@@ -8,27 +8,30 @@ tags: Uruguay
 # Eventos
 
 ## Próximos eventos
+TBA
+
 
 ### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
-Fecha: Jueves 28 de Julio
-Hora: 18:30 a 21:00
-Lugar: [SINERGIA Faro](https://goo.gl/maps/416s3krAn6NjFfyPA), Víctor Soliño 349 (ex hotel Sheraton en Punta Carretas)
-Link al streaming [aquí](https://youtu.be/fBmVoGkJ40M)
-Hablaremos del OWASP Top 10 2021 y seguiremos con el ciclo de charlas de SDLC con OWASP.
-Más información en el [Meetup](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/)
+Se realizó una Meetup híbrida en la cual se logró volver a la presencialidad de los eventos y a los reencuentros. Se realizó una charla de introducción a OWASP y al capítulo Uruguay de OWASP, seguida de la presentación del OWASP Top 10 2021 y su traducción al español, la cual fue dirigida por el capítulo, con la colaboración de algunas personas más de LATAM. Además, se continuó con el ciclo de charlas de SDLC con OWASP con una presentación sobre requerimientos y un mini laboratorio utilizando la herramienta OWASP Security Knowledge Framework (SKF).
 
-<img src="assets/images/owaspday2022.jpeg" class="img-responsive">
+#### Presentaciones:
+* Introducción [Martín Marsicano](https://www.linkedin.com/in/martinmarsicano/) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1hewyySSf84gfYu2HoM3IkXDviXqRwZxvIVP5hCLlkAI/edit?usp=sharing)
+* OWASP Top10 [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/15ezSTDBnptGUskhFZmTrJ-9EtgaE-okH/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true)
+* SDLC con OWASP - Requerimientos y laboratorio SKF [Pablo Alzuri](https://uy.linkedin.com/in/palzuri) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1-8DRib2D8cfThOvTduMM2OtFOb4CZX7w/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true)
+
+#### Grabación:
+[YouTube](https://youtu.be/fBmVoGkJ40M)
 
 
 
 ## 2021
 
 ### Meetup 19/08 - SDLC con OWASP: Introducción y training
-Se realizó una Meetup virtual en donde se realizó una introducción a la serie de charlas SDLC con OWASP que se estará realizando de parte del equipo de OWASP Uruguay. Además, se introdujo al proyecto que se está creando y que se utilizará para guiar la serie de charlas. También se realizó un laboratorio con OWASP Juice Shop utilizando Multi-Juicer.
+Se realizó una Meetup virtual en donde se introdujo a la serie de charlas SDLC con OWASP que se estará realizando de parte del equipo de OWASP Uruguay. Además, se presentó al proyecto que se quiere empezar a crear y que se utilizará para guiar la serie de charlas. También se realizó un laboratorio con OWASP Juice Shop utilizando Multi-Juicer.
 
 #### Presentaciones:
-* Introducción [Martín Marsicano](https://www.linkedin.com/in/martinmarsicano/) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1BBBl6Hsy11zp5nVjYgTT-AgOyWlLPw2A/edit?usp=sharing)
-* Laboratorio con Juice Shop [Pablo Alzuri](https://uy.linkedin.com/in/palzuri) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/19zunY0MnyDvY5_K-ciWbIupb80fGBDtg/edit?usp=sharing)
+* SDLC con OWASP - Introducción [Martín Marsicano](https://www.linkedin.com/in/martinmarsicano/) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1BBBl6Hsy11zp5nVjYgTT-AgOyWlLPw2A/edit?usp=sharing)
+* SDLC con OWASP - Laboratorio con Juice Shop [Pablo Alzuri](https://uy.linkedin.com/in/palzuri) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/19zunY0MnyDvY5_K-ciWbIupb80fGBDtg/edit?usp=sharing)
 
 #### Grabación:
 [YouTube](https://www.youtube.com/watch?v=OAE1EnBNMlc)

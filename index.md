@@ -34,6 +34,7 @@ Buscamos difundir temas de Seguridad en Aplicaciones, concientizar y sensibiliza
 * Sumándose al [grupo de discusión](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter) de OWASP Uruguay
 * En nuestras [Meetups](https://www.meetup.com/OWASP-Uruguay-Chapter)
 * Colaborando en los repositorios del capítulo en [Github](https://github.com/OWASP-Uruguay)
+* Dejándonos tus comentarios en los videos de [YouTube](https://www.youtube.com/channel/UC0-Z2Mufb062rREkmmEHTHQ)
 * Participando de eventos, reuniones de coordinación y participar en el crecimiento del capítulo local, difundir proyectos y colaborar con la presentación de proyectos en busca de fondos
 * Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
 
@@ -47,5 +48,6 @@ ES SIN COSTO!
 
 Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Esto no implica la membresia individual u organizacional de los estudiantes y/o profesores de la Universidad. Sin embargo, se invita a todos los estudiantes y profesores a explorar los beneficios de convertirse en un miembro OWASP.
 
-### Empresa
-* Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
+### Empresas
+* Realizando donaciones para el capítulo local, como puede ser la colaboración en la organización de un evento, mediante la disposición de un espacio, comida para el break y/o apoyo en la realización del streaming.
+* Proponiendo charlas y eventos relacionados para la comunidad de OWASP Uruguay.
