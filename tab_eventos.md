@@ -34,6 +34,8 @@ Si bien el ambiente se puede armar en el momento, para aprovechar mejor el tiemp
 
 Registro por y más información en el [Meetup](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/), los **cupos son limitados**. ¡Los esperamos!
 
+<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive">
+
 
 ### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
 Se realizó una Meetup híbrida en la cual se logró volver a la presencialidad de los eventos y a los reencuentros. Se realizó una charla de introducción a OWASP y al capítulo Uruguay de OWASP, seguida de la presentación del OWASP Top 10 2021 y su traducción al español, la cual fue dirigida por el capítulo, con la colaboración de algunas personas más de LATAM. Además, se continuó con el ciclo de charlas de SDLC con OWASP con una presentación sobre requerimientos y un mini laboratorio utilizando la herramienta OWASP Security Knowledge Framework (SKF).
