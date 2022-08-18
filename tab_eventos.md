@@ -10,6 +10,32 @@ tags: Uruguay
 ## Próximos eventos
 TBA
 
+### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
+
+Esta será la primera de una serie de reuniones mensuales **presenciales**, enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevará a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9) (Agr. Francisco Ros 2780).
+
+Es importante destacar que **no se requieren** conocimientos previos en seguridad de aplicaciones para participar. Si bien saber ayuda, la idea es aprender en la marcha, así que sin timidez :)
+
+La dinámica de esta jornada será la siguiente:
+* Formaremos grupos de asistentes con intereses y niveles similares para ayudarse entre sí.
+* Los grupos tendrán desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
+* Cada grupo tendrá **al menos un referente/facilitador** asignado, colaborador de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano.
+
+Requerimientos para poder participar:
+* Traé tu notebook, cada asistente tendrá su ambiente de trabajo.
+* El hardware debe ser suficiente para soportar un ambiente Linux virtualizado.
+* Lo recomendado será:
+  * Descargar máquina virtual de Kali Linux (OVA) para importar en VMWare o VirtualBox.
+  * Instalar Docker dentro de la máquina virtual.
+  * Descargar (pull) la imagen de Docker de Juice Shop.
+  * En caso de no utilizar Kali Linux, será necesario instalar OWASP ZAP o Burp Suite Community.
+
+Si bien el ambiente se puede armar en el momento, para aprovechar mejor el tiempo se recomienda asistir con todo pronto. Para esto [queda a disposición la presentación](https://drive.google.com/file/d/124HnABLbnpVpxrQJn0-l95CHcF_s_Mv-/view?usp=sharing) que se mostrará el día del evento con los enlaces a todos los recursos.
+
+Registro por y más información en el [Meetup](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/), los **cupos son limitados**. ¡Los esperamos!
+
+<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive">
+
 
 ### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
 Se realizó una Meetup híbrida en la cual se logró volver a la presencialidad de los eventos y a los reencuentros. Se realizó una charla de introducción a OWASP y al capítulo Uruguay de OWASP, seguida de la presentación del OWASP Top 10 2021 y su traducción al español, la cual fue dirigida por el capítulo, con la colaboración de algunas personas más de LATAM. Además, se continuó con el ciclo de charlas de SDLC con OWASP con una presentación sobre requerimientos y un mini laboratorio utilizando la herramienta OWASP Security Knowledge Framework (SKF).
