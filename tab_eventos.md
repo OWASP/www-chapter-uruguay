@@ -82,7 +82,7 @@ Domingo Mendivil, Martín Marsicano, Patricia Duarte, Rommel Oramas, Sebastian P
 * Introducción a SAMM, el proceso de traducción y Crowdin. Presentación [aquí](https://docs.google.com/presentation/d/1Fh7ocdC8_SnFk2HrVyP88JaIcvkPMFDKNc9qjqmod60/edit?usp=sharing)
 * [Glosario](https://docs.google.com/document/d/1d-XjUCz-SLRKmjRjipP9O3IIFl7uY8PYoOvc8U_gE3Q/edit?usp=sharing)
 * [Crowdin](https://crowdin.com/project/owasp-samm/es-ES#)
-* [Drive de la joranda](https://drive.google.com/drive/folders/1cr8Ogn1zKfTBNtN7XlzRaqSxNK9JwODK?usp=sharing) 
+* [Drive de la jornada](https://drive.google.com/drive/folders/1cr8Ogn1zKfTBNtN7XlzRaqSxNK9JwODK?usp=sharing) 
 * [Versión 1.0 en ingles](https://opensamm.org/downloads/SAMM-1.0.pdf)
 * [Versión 1.0 en español](https://opensamm.org/downloads/SAMM-1.0-es_MX.pdf)
 
@@ -95,13 +95,13 @@ Domingo Mendivil, Martín Marsicano, Patricia Duarte, Rommel Oramas, Sebastian P
 ## 2020
 
 ### Jornada de Colaboración - AntiSamy
-En esta jornada de colaboración se agregó en la versión Java del proyecto AntiSamy el chequeo mediante xsd de la correctitud de los xml de las reglas, que [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro-50057342) (OWASP Uruguay) agregó en la versión .Net cuando retomó el proyecto y le hizo varias mejoras.
+En esta jornada de colaboración se agregó en la versión Java del proyecto AntiSamy el chequeo mediante XSD de la correctitud de los XML de las reglas, que [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay) agregó en la versión .Net cuando retomó el proyecto y le hizo varias mejoras.
 
 #### Repositorio Github:
-[Branch en el que se trabajo para hacer el Pull Request](https://github.com/OWASP-Uruguay/antisamy/tree/1.6.0)
-[AntySamy](https://owasp.org/www-project-antisamy/)
-[AntySamy Java](https://github.com/nahsra/antisamy)
-[AntiSamy .Net](https://github.com/spassarop/antisamy-dotnet)
+* [Branch en el que se trabajó para hacer el Pull Request](https://github.com/OWASP-Uruguay/antisamy/tree/1.6.0)
+* [AntySamy](https://owasp.org/www-project-antisamy/)
+* [AntySamy Java](https://github.com/nahsra/antisamy)
+* [AntiSamy .Net](https://github.com/spassarop/antisamy-dotnet)
 
 #### Participantes:
 Gerardo Canedo, Martín Marsicano, Sebastian Passaro
@@ -111,7 +111,7 @@ Gerardo Canedo, Martín Marsicano, Sebastian Passaro
 Se realizó una Meetup virtual en donde se contó acerca de del proyecto OWASP AntiSamy y sobre la herramienta de SAST SonarQube.
 
 #### Presentaciones:
-* Workshop AntiSamy [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro-50057342) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
+* Workshop AntiSamy [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1TpP3BhdII8vTYWpnZk8ys4QMtlKh0q_6HS5EseJGR1M/edit?usp=sharing)
 * SonarQube 101 [Maximiliano Alonzo](https://uy.linkedin.com/in/maximiliano-alonzo-18075720) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1z_ztxxj1O4oydbb2j_MvZcMuytbka-bO/view?usp=sharing)
 
 #### Repositorio Github:
@@ -127,7 +127,7 @@ Se realizó una Meetup virtual en donde se contó acerca de los requerimientos d
 Para aplicaciones web el Application Security Verification Standard y para seguridad móvil el Mobile Application Security Verification Standard y para probar dichos requerimientos se contó un poco sobre las guías de testing para web, la Web Security Testing Guide y para móvil la Mobile Security Testing Guide.
 
 #### Presentación:
-* Requerimientos de seguridad y cómo probarlos [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) y [Gerardo Canedo](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1peMcFswJK4mlG9KhDcT-olTCjNCz5YFa/view?usp=sharing)
+* Requerimientos de seguridad y cómo probarlos [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) y [Gerardo Canedo](https://uy.linkedin.com/in/gcanedo) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1peMcFswJK4mlG9KhDcT-olTCjNCz5YFa/view?usp=sharing)
 
 #### Grabación:
 [YouTube](https://youtu.be/KK-_wjOs4dY)
@@ -141,14 +141,14 @@ Se realizó un Workshop virtual en donde se mostraron las herramientas Flagship 
 * Defect Dojo [Felipe Zipitria](https://uy.linkedin.com/in/felipezipitria) (OWASP Uruguay).
 
 #### Repositorio Github:
-[ZAP-DD_Workshop](htps://github.com/OWASP-Uruguay/ZAP-DD-Workshop)
+[ZAP-DD_Workshop](https://github.com/OWASP-Uruguay/ZAP-DD-Workshop)
 
 #### Grabación:
 [YouTube](https://www.youtube.com/watch?v=F7TM3pDhIeA)
 
 
 ### OWASP LATAM at Home 2020
-Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dió pie a realizar un evento con las mismas características pero de manera Virtual y con organización conjunta de los capítulos de OWASP en LATAM.
+Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera presencial, esto dio pie a realizar un evento con las mismas características pero de manera Virtual y con organización conjunta de los capítulos de OWASP en LATAM.
 
 [Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
@@ -163,7 +163,7 @@ Se realizó la 1era Meetup el día 16 de noviembre en el Aulario de la Facultad 
 #### Presentaciones:
 * OWASP y OWASP UY: introducción y 2020. [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1KWmiBMCsW7dCHtYsqBb7DSBnYgvSJG-k/view?usp=sharing)
 
-#### Imagenes:
+#### Imágenes:
 {% include carousel.md name="meetup_2019" data=site.data.meetup_2019 id=3 %}
 
 
@@ -177,7 +177,7 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 * Participando en bug bounties desde Uruguay. [Stefano Vettorazzi](https://twitter.com/stefanohablando). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1wmXt7dFh72yxYKUKSwsI0VqzfKkrH3aa/view?usp=sharing)
 * Integración y automatización de seguridad en procesos de desarrollo ágiles. [Guillermo Gabarrín](https://www.linkedin.com/in/guillermo-gabarrin/es) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1wyPVhfCcCqKEhEfSryI9esxfHJ0yG0BF/view?usp=sharing)
 
-#### Imagenes:
+#### Imágenes:
 {% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 id=2 %}
 
 
@@ -187,7 +187,7 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 ### OWASP Day UTEC
 Se realizó en Durazno el OWASP Day UTEC el día 23 de octubre en la Universidad Tecnológica en su sede ITR Centro Sur.
 
-#### Imagenes:
+#### Imágenes:
 {% include carousel.md name="owasp_day_utec_2018" data=site.data.owasp_day_utec_2018 id=1 %}
 
 
@@ -196,12 +196,12 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 
 #### Presentaciones:
 * Desplegando servicios de SOC para la protección de aplicaciones. Ignacio Lagomarsino / José Callero (AGESIC). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/19FUmB6-9mpLaIsAi9NQfl6BY5oNPkcDZ/view?usp=sharing)
-* Seguridad en Aplicaciones: Por que es importante y como OWASP te puede ayudar. Maximiliano Alonzo (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1HOmzQAU5fH-XwF8HMpUczzz6beGYV_yW/view?usp=sharing)
+* Seguridad en Aplicaciones: Por qué es importante y como OWASP te puede ayudar. Maximiliano Alonzo (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1HOmzQAU5fH-XwF8HMpUczzz6beGYV_yW/view?usp=sharing)
 * Librerías criptográficas y su estrategia de adopción para equipos de desarrollo de Mercadolibre. Alejandro Iacobelli (MercadoLibre). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1gixlzDwSfornpBLgECWoGs6QNdu5NFCK/view?usp=sharing)
 * Seguridad en una aplicación mobile desde el diseño (traducción MASVS). Martin Marsicano (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1r5v_jCQRL78ioksgH4Trl0gNb6Od5lal/view?usp=sharing)
 * Attacking Wordpress plugins with no-style nor time. Ezequiel Tavella / Gabriel Franco (infobyte). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/14dJAafifDU-830RAmpvDWDnK5gsdZcAP/view?usp=sharing)
 
-#### Imagenes:
+#### Imágenes:
 {% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=0 %}
 <!-- TODO: link a eventos anteriores -->
 
