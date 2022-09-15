@@ -8,33 +8,26 @@ tags: Uruguay
 # Eventos
 
 ## Próximos eventos
+
+### Introducción a la seguridad de aplicaciones - Jornada 2 (13/10)
 TBA
+
+[//]: # (Replace this comment with the new flyer: <img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium centered">)
 
 ### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
 
-Esta será la primera de una serie de reuniones mensuales **presenciales**, enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevará a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9) (Agr. Francisco Ros 2780).
+Primera de una serie de reuniones mensuales **presenciales**, enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
 
-Es importante destacar que **no se requieren** conocimientos previos en seguridad de aplicaciones para participar. Si bien saber ayuda, la idea es aprender en la marcha, así que sin timidez :)
+Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Hubo **referentes/facilitadores**, colaboradores de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano.
 
-La dinámica de esta jornada será la siguiente:
-* Formaremos grupos de asistentes con intereses y niveles similares para ayudarse entre sí.
-* Los grupos tendrán desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
-* Cada grupo tendrá **al menos un referente/facilitador** asignado, colaborador de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano.
+Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/).
 
-Requerimientos para poder participar:
-* Traé tu notebook, cada asistente tendrá su ambiente de trabajo.
-* El hardware debe ser suficiente para soportar un ambiente Linux virtualizado.
-* Lo recomendado será:
-  * Descargar máquina virtual de Kali Linux (OVA) para importar en VMWare o VirtualBox.
-  * Instalar Docker dentro de la máquina virtual.
-  * Descargar (pull) la imagen de Docker de Juice Shop.
-  * En caso de no utilizar Kali Linux, será necesario instalar OWASP ZAP o Burp Suite Community.
+#### Presentaciones:
+* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/1XsGn0I7sRMa8Uh8-Ta_KNKJoutT5n-w5H-EeFe82xs0/edit?usp=sharing).
+* [Introducción a la jornada](https://drive.google.com/file/d/124HnABLbnpVpxrQJn0-l95CHcF_s_Mv-/view?usp=sharing), con enlaces a varios recursos y objetivos del evento.
 
-Si bien el ambiente se puede armar en el momento, para aprovechar mejor el tiempo se recomienda asistir con todo pronto. Para esto [queda a disposición la presentación](https://drive.google.com/file/d/124HnABLbnpVpxrQJn0-l95CHcF_s_Mv-/view?usp=sharing) que se mostrará el día del evento con los enlaces a todos los recursos.
-
-Registro por y más información en el [Meetup](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/), los **cupos son limitados**. ¡Los esperamos!
-
-<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive">
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2022_day_1" data=site.data.appsec_intro_2022_day_1 id=4 %}
 
 
 ### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
@@ -209,8 +202,15 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 <style>
 * {box-sizing: border-box}
 /* Must change when add one carousel */
-.latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019 {display: none; height: 600px}
+.latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
+.appsec_intro_2022_day_1 {
+  display: none; 
+  height: 600px;
+}
 img {vertical-align: middle}
+/* For future flyers with normal size */
+.medium-size {max-width: 50%;}
+.centered {margin: 25%}
 
 /* Slideshow container */
 .slideshow-container {
@@ -249,13 +249,14 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1];
 /* Must change when add one carousel */
-var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019"];
+var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019", "appsec_intro_2022_day_1"];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
 showSlides(1, 3);
+showSlides(1, 4);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
