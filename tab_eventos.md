@@ -14,7 +14,7 @@ Segunda de la serie de reuniones mensuales presenciales, el formato es exactamen
 
 En esta ocasión se llevará a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). Para registro y más información acceder al [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/288804543/). **Los cupos son limitados**.
 
-<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium centered">
+<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">
 
 ### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
 
@@ -211,8 +211,8 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 }
 img {vertical-align: middle}
 /* For future flyers with normal size */
-.medium-size {max-width: 50%;}
-.centered {margin: 25%}
+.medium-size {max-width: 50%}
+.centered {margin-left: 25%}
 
 /* Slideshow container */
 .slideshow-container {
