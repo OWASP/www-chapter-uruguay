@@ -10,9 +10,11 @@ tags: Uruguay
 ## Próximos eventos
 
 ### Introducción a la seguridad de aplicaciones - Jornada 2 (13/10)
-TBA
+Segunda de la serie de reuniones mensuales presenciales, el formato es exactamente igual al de la jornada del 13/09 (ver más abajo). Para quienes hayan asistido a la jornada anterior, pueden seguir con desafíos más complejos. La dinámica se repetirá para los nuevos asistentes.
 
-[//]: # (Replace this comment with the new flyer: <img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium centered">)
+En esta ocasión se llevará a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). Para registro y más información acceder al [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/288804543/). **Los cupos son limitados**.
+
+<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium centered">
 
 ### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
 
