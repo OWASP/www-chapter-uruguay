@@ -9,12 +9,17 @@ tags: Uruguay
 
 ## Próximos eventos
 
+TBA
+
+[//]: # (Replace this comment with the new flyer: <img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">)
+
 ### Introducción a la seguridad de aplicaciones - Jornada 2 (13/10)
-Segunda de la serie de reuniones mensuales presenciales, el formato es exactamente igual al de la jornada del 13/09 (ver más abajo). Para quienes hayan asistido a la jornada anterior, pueden seguir con desafíos más complejos. La dinámica se repetirá para los nuevos asistentes.
+Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 13/09 (ver más abajo). Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). 
 
-En esta ocasión se llevará a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). Para registro y más información acceder al [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/288804543/). **Los cupos son limitados**.
+Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/events/288804543/).
 
-<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2022_day_2" data=site.data.appsec_intro_2022_day_2 id=5 %}
 
 ### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
 
@@ -205,7 +210,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 * {box-sizing: border-box}
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
-.appsec_intro_2022_day_1 {
+.appsec_intro_2022_day_1, .appsec_intro_2022_day_2 {
   display: none; 
   height: 600px;
 }
@@ -251,14 +256,22 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
-var slideId = ["latam_tour_2018", "owasp_day_utec_2018", "latam_tour_2019", "meetup_2019", "appsec_intro_2022_day_1"];
+var slideId = [
+  "latam_tour_2018", 
+  "owasp_day_utec_2018", 
+  "latam_tour_2019", 
+  "meetup_2019", 
+  "appsec_intro_2022_day_1",
+  "appsec_intro_2022_day_2"
+  ];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
 showSlides(1, 3);
 showSlides(1, 4);
+showSlides(1, 5);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
