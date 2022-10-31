@@ -9,11 +9,15 @@ tags: Uruguay
 
 ## Próximos eventos
 
-TBA
+### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
 
-[//]: # (Replace this comment with the new flyer: <img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">)
+Tercera de la serie de reuniones mensuales presenciales, el formato es exactamente igual al de las jornadas anteriores (ver más abajo). Para quienes hayan asistido a otras, pueden seguir con desafíos más complejos. La dinámica se repetirá para los nuevos asistentes.
 
-### Introducción a la seguridad de aplicaciones - Jornada 2 (13/10)
+En esta ocasión se llevará a cabo en [Holberton School](https://goo.gl/maps/MAxz76MCWuX8Cn6z7). Para registro y más información acceder al [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/). **Los cupos son limitados**.
+
+<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">
+
+### Introducción a la seguridad de aplicaciones - Edición octubre (13/10)
 Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 13/09 (ver más abajo). Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). 
 
 Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/events/288804543/).
@@ -21,7 +25,7 @@ Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/e
 #### Imágenes:
 {% include carousel.md name="appsec_intro_2022_day_2" data=site.data.appsec_intro_2022_day_2 id=5 %}
 
-### Introducción a la seguridad de aplicaciones - Jornada 1 (13/09)
+### Introducción a la seguridad de aplicaciones - Edición septiembre (13/09)
 
 Primera de una serie de reuniones mensuales **presenciales**, enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
 
