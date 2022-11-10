@@ -7,15 +7,16 @@ tags: Uruguay
 ---
 # Eventos
 
-## Próximos eventos
+[//]: # (Replace this comment with the new flyer if it is not added with the Meetup integration: <img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">)
 
 ### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
 
-Tercera de la serie de reuniones mensuales presenciales, el formato es exactamente igual al de las jornadas anteriores (ver más abajo). Para quienes hayan asistido a otras, pueden seguir con desafíos más complejos. La dinámica se repetirá para los nuevos asistentes.
+Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Holberton School](https://goo.gl/maps/MAxz76MCWuX8Cn6z7). 
 
-En esta ocasión se llevará a cabo en [Holberton School](https://goo.gl/maps/MAxz76MCWuX8Cn6z7). Para registro y más información acceder al [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/). **Los cupos son limitados**.
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/).
 
-<img src="assets/images/APPSEC_INTRO_2022/flyer.png" class="img-responsive medium-size centered">
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2022_day_3" data=site.data.appsec_intro_2022_day_3 id=6 %}
 
 ### Introducción a la seguridad de aplicaciones - Edición octubre (13/10)
 Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 13/09 (ver más abajo). Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). 
@@ -51,7 +52,6 @@ Se realizó una Meetup híbrida en la cual se logró volver a la presencialidad 
 
 #### Grabación:
 [YouTube](https://youtu.be/fBmVoGkJ40M)
-
 
 
 ## 2021
@@ -214,7 +214,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 * {box-sizing: border-box}
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
-.appsec_intro_2022_day_1, .appsec_intro_2022_day_2 {
+.appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3 {
   display: none; 
   height: 600px;
 }
@@ -260,7 +260,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -268,7 +268,8 @@ var slideId = [
   "latam_tour_2019", 
   "meetup_2019", 
   "appsec_intro_2022_day_1",
-  "appsec_intro_2022_day_2"
+  "appsec_intro_2022_day_2",
+  "appsec_intro_2022_day_3"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -276,6 +277,7 @@ showSlides(1, 2);
 showSlides(1, 3);
 showSlides(1, 4);
 showSlides(1, 5);
+showSlides(1, 6);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
