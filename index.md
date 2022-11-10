@@ -44,10 +44,13 @@ Las universidades y centros educativos que apoyan a OWASP cuentan con los siguie
 * OWASP y la Universidad pueden conjuntamente organizar eventos que proporcionen a los estudiantes financiamiento para realizar investigaciones basadas en la seguridad de aplicaciones
 * OWASP y la Universidad pueden colaborar en la organización de seminarios para proporcionar sesiones de capacitación para estudiantes en herramientas OWASP, documentación y conocimientos de seguridad.
 
-ES SIN COSTO!
+¡ES SIN COSTO!
 
 Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Esto no implica la membresia individual u organizacional de los estudiantes y/o profesores de la Universidad. Sin embargo, se invita a todos los estudiantes y profesores a explorar los beneficios de convertirse en un miembro OWASP.
 
 ### Empresas
 * Realizando donaciones para el capítulo local, como puede ser la colaboración en la organización de un evento, mediante la disposición de un espacio, comida para el break y/o apoyo en la realización del streaming.
 * Proponiendo charlas y eventos relacionados para la comunidad de OWASP Uruguay.
+
+# Siguiente(s) Meetup/Evento(s)
+{% include chapter_events.html group=page.meetup-group %}
