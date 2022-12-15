@@ -7,6 +7,15 @@ tags: Uruguay
 ---
 # Eventos
 
+### Introducción a la seguridad de aplicaciones - Edición diciembre (13/12)
+
+Cuarta de la serie de reuniones mensuales presenciales última del 2022, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Globant Uruguay](https://goo.gl/maps/oCAkGhu6GBjZRGWg8). 
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289988996/).
+
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=7 %}
+
 ### Meetup de charlas por OWASP UY + invitados (23/11)
 
 Evento de charlas en la Facultad de Ingeniería de Universidad ORT. Se trató el tema diseño y modelado de amenazas con el caso práctico del sistema "Uruguay se vacuna", continuando con el ciclo de charlas de SDLC. También se mostró la aplicación de OWASP SAMM desde la experiencia vinculándolo con frameworks PCI y cómo impacta en la evaluación de madurez de una empresa y la estrategia de seguridad a seguir. Desde el exterior tuvimos una charla remota sobre seguridad en smart contracts con varios recursos guiando por dónde comenzar en el tema del testing en el área.
@@ -231,7 +240,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
-.meetup_ort_2022 {
+.meetup_ort_2022, .appsec_intro_2022_day_4 {
   display: none; 
   height: 600px;
 }
@@ -277,7 +286,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -288,6 +297,7 @@ var slideId = [
   "appsec_intro_2022_day_2",
   "appsec_intro_2022_day_3",
   "meetup_ort_2022"
+  "appsec_intro_2022_day_4",
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -297,6 +307,7 @@ showSlides(1, 4);
 showSlides(1, 5);
 showSlides(1, 6);
 showSlides(1, 7);
+showSlides(1, 8);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
