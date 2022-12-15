@@ -14,7 +14,7 @@ Cuarta de la serie de reuniones mensuales presenciales última del 2022, siguien
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289988996/).
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=7 %}
+{% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=8 %}
 
 ### Meetup de charlas por OWASP UY + invitados (23/11)
 
