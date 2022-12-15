@@ -296,8 +296,8 @@ var slideId = [
   "appsec_intro_2022_day_1",
   "appsec_intro_2022_day_2",
   "appsec_intro_2022_day_3",
-  "meetup_ort_2022"
-  "appsec_intro_2022_day_4",
+  "meetup_ort_2022",
+  "appsec_intro_2022_day_4"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
