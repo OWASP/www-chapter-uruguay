@@ -10,6 +10,9 @@ tags: Uruguay
 
 Debajo se encuentran los links a las minutas de cada reunión.
 
+## 2023
+* [Uruguay-Minuta-28-feb-2023](https://docs.google.com/document/d/1bbjwwD61n7CURQLEznIQhUnYInCCW7Z4LnsACU-izqU/edit?usp=sharing)
+
 ## 2022
 * [Uruguay-Minuta-07-dec-2022](https://docs.google.com/document/d/1leNebRpUuvB1X3zclJJ0ulLmPfOOrwwXCDJ58i_romw/edit?usp=sharing)
 * [Uruguay-Minuta-31-oct-2022](https://docs.google.com/document/d/1H9TAZXxqbVLiqkTxrP_I1yaTI6DTiTWkgYMTHCxhPMA/edit?usp=sharing)
