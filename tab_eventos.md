@@ -7,6 +7,19 @@ tags: Uruguay
 ---
 # Eventos
 
+### Meetup "SQLi en la práctica: De la explotación a la prevención" (02/05)
+
+Evento enfocado en inyecciones en SQL (SQLi), llevado a cabo en la Universidad Católica del Uruguay. Abordado desde más de una perspectiva, como individuo que ataca, que prueba la aplicación o que la desarrolla. Se presentaron los diferentes tipos de inyección, tips de detección y explotación y parte de las múltiples defensas.
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/292840705).
+
+[Material público utilizado en la exposición](https://owasp-uruguay.github.io/sqli-en-la-practica/) creado por OWASP UY.
+
+#### Imágenes:
+{% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=9 %}
+
+## 2022
+
 ### Introducción a la seguridad de aplicaciones - Edición diciembre (13/12)
 
 Cuarta de la serie de reuniones mensuales presenciales última del 2022, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Globant Uruguay](https://goo.gl/maps/oCAkGhu6GBjZRGWg8). 
@@ -240,7 +253,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
-.meetup_ort_2022, .appsec_intro_2022_day_4 {
+.meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023 {
   display: none; 
   height: 600px;
 }
@@ -286,7 +299,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -297,7 +310,8 @@ var slideId = [
   "appsec_intro_2022_day_2",
   "appsec_intro_2022_day_3",
   "meetup_ort_2022",
-  "appsec_intro_2022_day_4"
+  "appsec_intro_2022_day_4",
+  "meetup_ucu_2023"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -308,6 +322,7 @@ showSlides(1, 5);
 showSlides(1, 6);
 showSlides(1, 7);
 showSlides(1, 8);
+showSlides(1, 9);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
