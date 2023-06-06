@@ -7,6 +7,17 @@ tags: Uruguay
 ---
 # Eventos
 
+### IT Builders Live (27/05)
+
+El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo tres espacios dedicados: un taller a modo de resumen del contenido de las meetups de la serie "Introducción a la seguridad de aplicaciones", la conferencia "Seguridad en APIs" presentando el OWASP API Top 10 (2023 RC) y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
+
+[Presentación utilizada en el taller](https://drive.google.com/file/d/1HAPsF2sU7jvK4vmvRDjJ6OEt-HBPXfJf/view?usp=sharing).
+
+[Presentación: IT Builders - Seguridad en APIs](https://drive.google.com/file/d/1aMw9v9OQlG5fTHVp8h9QSlP-qNcCg7RQ/view?usp=sharing) sin videos.
+
+#### Imágenes:
+{% include carousel.md name="itbuilders_2023" data=site.data.itbuilders_2023 id=10 %}
+
 ### Meetup "SQLi en la práctica: De la explotación a la prevención" (02/05)
 
 Evento enfocado en inyecciones en SQL (SQLi), llevado a cabo en la Universidad Católica del Uruguay. Abordado desde más de una perspectiva, como individuo que ataca, que prueba la aplicación o que la desarrolla. Se presentaron los diferentes tipos de inyección, tips de detección y explotación y parte de las múltiples defensas.
@@ -253,7 +264,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
-.meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023 {
+.meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023 {
   display: none; 
   height: 600px;
 }
@@ -311,7 +322,8 @@ var slideId = [
   "appsec_intro_2022_day_3",
   "meetup_ort_2022",
   "appsec_intro_2022_day_4",
-  "meetup_ucu_2023"
+  "meetup_ucu_2023",
+  "itbuilders_2023"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -323,6 +335,7 @@ showSlides(1, 6);
 showSlides(1, 7);
 showSlides(1, 8);
 showSlides(1, 9);
+showSlides(1, 10);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
