@@ -310,7 +310,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
