@@ -7,6 +7,15 @@ tags: Uruguay
 ---
 # Eventos
 
+### Cyber range (06/07)
+
+AGESIC invitó a la comunidad de OWASP Uruguay a realizar un entrenamiento utilizando su plataforma de cyber range, que permite simular ataques reales en una infraestructura. En esta oportunidad se utilizó un escenario de ataque para poder detectarlo y responder a este.
+
+Se llevó a cabo el 6 de julio de 18:00 a 21:00 en Facultad de Ingeniería de ORT. [Gerardo Canedo](https://www.linkedin.com/in/gcanedo/) y [Mauro Flores](https://www.linkedin.com/in/mauro-flores-72855922/) fueron quienes impartieron el entramiento.
+
+#### Imágenes:
+{% include carousel.md name="cyber_range_07_2023" data=site.data.cyber_range_07_2023 id=11 %}
+
 ### IT Builders Live (27/05)
 
 El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo tres espacios dedicados: un taller a modo de resumen del contenido de las meetups de la serie "Introducción a la seguridad de aplicaciones", la conferencia "Seguridad en APIs" presentando el OWASP API Top 10 (2023 RC) y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
@@ -264,7 +273,8 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 /* Must change when add one carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
-.meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023 {
+.meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
+.cyber_range_07_2023 {
   display: none; 
   height: 600px;
 }
@@ -310,7 +320,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -323,7 +333,8 @@ var slideId = [
   "meetup_ort_2022",
   "appsec_intro_2022_day_4",
   "meetup_ucu_2023",
-  "itbuilders_2023"
+  "itbuilders_2023",
+  "cyber_range_07_2023"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -336,6 +347,7 @@ showSlides(1, 7);
 showSlides(1, 8);
 showSlides(1, 9);
 showSlides(1, 10);
+showSlides(1, 11);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
