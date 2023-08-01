@@ -7,6 +7,21 @@ tags: Uruguay
 ---
 # Eventos
 
+### Introducción a la seguridad de aplicaciones - Edición julio (27/07)
+
+Primera del año de una serie de reuniones enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67).
+
+Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Hubo **referentes/facilitadores**, colaboradores de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano. También se inició con una introducción al OWASP Top 10 2021.
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/294654645/).
+
+#### Presentaciones:
+* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
+* [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
+
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2023_day_1" data=site.data.appsec_intro_2023_day_1 id=12 %}
+
 ### Cyber range (06/07)
 
 AGESIC invitó a la comunidad de OWASP Uruguay a realizar un entrenamiento utilizando su plataforma de cyber range, que permite simular ataques reales en una infraestructura. En esta oportunidad se utilizó un escenario de ataque para poder detectarlo y responder a este.
@@ -274,7 +289,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
-.cyber_range_07_2023 {
+.cyber_range_07_2023, .appsec_intro_2023_day_1 {
   display: none; 
   height: 600px;
 }
@@ -320,7 +335,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -334,7 +349,8 @@ var slideId = [
   "appsec_intro_2022_day_4",
   "meetup_ucu_2023",
   "itbuilders_2023",
-  "cyber_range_07_2023"
+  "cyber_range_07_2023",
+  "appsec_intro_2023_day_1"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -348,6 +364,7 @@ showSlides(1, 8);
 showSlides(1, 9);
 showSlides(1, 10);
 showSlides(1, 11);
+showSlides(1, 12);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
