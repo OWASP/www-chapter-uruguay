@@ -7,6 +7,33 @@ tags: Uruguay
 ---
 # Eventos
 
+### Meetup Developer mode (29/10)
+
+En esta Meetup, se utilizó el proyecto OWASP [Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/) para introducir a los participantes en revisión de código y detección de vulnerabilidades. Esto mediante desafíos guiados y apoyo de expertos en seguridad de aplicaciones. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/296064633/).
+
+#### Presentaciones:
+* [Introducción a OWASP Secure Coding Dojo](https://github.com/OWASP/SecureCodingDojo/blob/main/workshop/es/SecureCoding101.pptx) (como parte de la preparación de este proyecto se colaboró con dicho proyecto traduciendo la presentación al español y compartiéndola con la comunidad).
+
+#### Imágenes:
+{% include carousel.md name="meetup_devmode_10_2023" data=site.data.meetup_devmode_10_2023 id=14 %}
+
+
+### Introducción a la seguridad de aplicaciones - Edición agosto (29/10)
+
+Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 27/07 (ver más abajo). Se llevó a cabo en [GeneXus Consulting](https://maps.app.goo.gl/UjHJnL5GwKyPSv35A).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/295521802/).
+
+#### Presentaciones:
+* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
+* [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
+
+#### Imágenes:
+{% include carousel.md name="appsec_intro_2023_day_2" data=site.data.appsec_intro_2023_day_2 id=13 %}
+
+
 ### Introducción a la seguridad de aplicaciones - Edición julio (27/07)
 
 Primera del año de una serie de reuniones enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67).
@@ -22,6 +49,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="appsec_intro_2023_day_1" data=site.data.appsec_intro_2023_day_1 id=12 %}
 
+
 ### Cyber range (06/07)
 
 AGESIC invitó a la comunidad de OWASP Uruguay a realizar un entrenamiento utilizando su plataforma de cyber range, que permite simular ataques reales en una infraestructura. En esta oportunidad se utilizó un escenario de ataque para poder detectarlo y responder a este.
@@ -30,6 +58,7 @@ Se llevó a cabo el 6 de julio de 18:00 a 21:00 en Facultad de Ingeniería de OR
 
 #### Imágenes:
 {% include carousel.md name="cyber_range_07_2023" data=site.data.cyber_range_07_2023 id=11 %}
+
 
 ### IT Builders Live (27/05)
 
@@ -42,6 +71,7 @@ El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com
 #### Imágenes:
 {% include carousel.md name="itbuilders_2023" data=site.data.itbuilders_2023 id=10 %}
 
+
 ### Meetup "SQLi en la práctica: De la explotación a la prevención" (02/05)
 
 Evento enfocado en inyecciones en SQL (SQLi), llevado a cabo en la Universidad Católica del Uruguay. Abordado desde más de una perspectiva, como individuo que ataca, que prueba la aplicación o que la desarrolla. Se presentaron los diferentes tipos de inyección, tips de detección y explotación y parte de las múltiples defensas.
@@ -53,6 +83,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=9 %}
 
+
 ## 2022
 
 ### Introducción a la seguridad de aplicaciones - Edición diciembre (13/12)
@@ -63,6 +94,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 #### Imágenes:
 {% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=8 %}
+
 
 ### Meetup de charlas por OWASP UY + invitados (23/11)
 
@@ -82,6 +114,7 @@ Algunos enlaces útiles mencionados en el video:
 #### Imágenes:
 {% include carousel.md name="meetup_ort_2022" data=site.data.meetup_ort_2022 id=7 %}
 
+
 ### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
 
 Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Holberton School](https://goo.gl/maps/MAxz76MCWuX8Cn6z7). 
@@ -91,6 +124,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="appsec_intro_2022_day_3" data=site.data.appsec_intro_2022_day_3 id=6 %}
 
+
 ### Introducción a la seguridad de aplicaciones - Edición octubre (13/10)
 Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 13/09 (ver más abajo). Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67). 
 
@@ -98,6 +132,7 @@ Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/e
 
 #### Imágenes:
 {% include carousel.md name="appsec_intro_2022_day_2" data=site.data.appsec_intro_2022_day_2 id=5 %}
+
 
 ### Introducción a la seguridad de aplicaciones - Edición septiembre (13/09)
 
@@ -289,7 +324,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
-.cyber_range_07_2023, .appsec_intro_2023_day_1 {
+.cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023 {
   display: none; 
   height: 600px;
 }
@@ -335,7 +370,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -350,7 +385,9 @@ var slideId = [
   "meetup_ucu_2023",
   "itbuilders_2023",
   "cyber_range_07_2023",
-  "appsec_intro_2023_day_1"
+  "appsec_intro_2023_day_1",
+  "appsec_intro_2023_day_2",
+  "meetup_devmode_10_2023"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -365,6 +402,8 @@ showSlides(1, 9);
 showSlides(1, 10);
 showSlides(1, 11);
 showSlides(1, 12);
+showSlides(1, 13);
+showSlides(1, 14);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
