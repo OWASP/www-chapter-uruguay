@@ -7,7 +7,18 @@ tags: Uruguay
 ---
 # Eventos
 
-### Meetup Developer mode (29/10)
+## 2024
+TBA
+
+## 2023
+
+### Meetup Developer mode (24/10)
+
+Meetup orientada a desarrolladores siguiendo el formato de la jornada del 27/09 (ver más abajo). Se llevó a cabo en [GEOCOM Uruguay](https://maps.app.goo.gl/MG9tXBkgLLKaZT7s6).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/296685550/).
+
+### Meetup Developer mode (27/09)
 
 En esta Meetup, se utilizó el proyecto OWASP [Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/) para introducir a los participantes en revisión de código y detección de vulnerabilidades. Esto mediante desafíos guiados y apoyo de expertos en seguridad de aplicaciones. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
 
@@ -20,7 +31,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 {% include carousel.md name="meetup_devmode_10_2023" data=site.data.meetup_devmode_10_2023 id=14 %}
 
 
-### Introducción a la seguridad de aplicaciones - Edición agosto (29/10)
+### Introducción a la seguridad de aplicaciones - Edición agosto (29/08)
 
 Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 27/07 (ver más abajo). Se llevó a cabo en [GeneXus Consulting](https://maps.app.goo.gl/UjHJnL5GwKyPSv35A).
 
