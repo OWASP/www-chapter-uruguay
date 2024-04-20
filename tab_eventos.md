@@ -8,7 +8,18 @@ tags: Uruguay
 # Eventos
 
 ## 2024
-TBA
+
+### Meetup de abril (16/04)
+Charlas de exponentes invitados, en el espacio ofrecido por [Nexa IT](https://maps.app.goo.gl/o9FhShY2xGLPs4j96).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/300242757/).
+
+#### Presentaciones:
+* El desafío de API Security - [Matias Ferreira](https://www.linkedin.com/in/matoferreira/). Presentación [aquí](https://drive.google.com/file/d/1HoMm4_bkId-R5qQMDS795YEX0SalmWw2/view?usp=drive_link).
+* ¿Qué tan bien conoces a tus vecinos? - [Sebastián Harreguy](https://www.linkedin.com/in/sebasti%C3%A1n-harreguy-alfonso-40340315a/). Presentación [aquí](https://drive.google.com/file/d/1E5ogW0NlkWrJi1NHW7fubyY3E18QB-lM/view?usp=drive_link).
+
+#### Imágenes:
+{% include carousel.md name="meetup_04_2024" data=site.data.meetup_04_2024 id=15 %}
 
 ## 2023
 
@@ -335,7 +346,8 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
-.cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023 {
+.cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023,
+.meetup_04_2024 {
   display: none; 
   height: 600px;
 }
@@ -381,7 +393,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -398,7 +410,8 @@ var slideId = [
   "cyber_range_07_2023",
   "appsec_intro_2023_day_1",
   "appsec_intro_2023_day_2",
-  "meetup_devmode_10_2023"
+  "meetup_devmode_10_2023",
+  "meetup_04_2024"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -415,6 +428,7 @@ showSlides(1, 11);
 showSlides(1, 12);
 showSlides(1, 13);
 showSlides(1, 14);
+showSlides(1, 15);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
