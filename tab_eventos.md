@@ -14,6 +14,7 @@ tags: Uruguay
 El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo dos espacios dedicados: la charla "Potenciales problemas de seguridad en LLMs" y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
 
 [Presentación: IT Builders - Potenciales problemas de seguridad en LLMs](https://docs.google.com/presentation/d/1jSAoBNPg668e4JuxKnJm93vBDVQkb9DGc_dM1BEws6w/).
+Video de la presentación en [YouTube](https://www.youtube.com/watch?v=xDTzXccq9QY).
 
 ### Meetup de mayo (07/05)
 Charlas de exponente invitado y líderes del capítulo, en el espacio ofrecido por [Urudata](https://www.urudata.com/).
