@@ -9,6 +9,25 @@ tags: Uruguay
 
 ## 2024
 
+### Meetup de junio (11/06)
+Charlas de exponentes invitados, en el espacio ofrecido por [Isbel](https://isbel.com/).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/301263486/).
+
+#### Presentaciones:
+* Fingerprinting en la Web - [Felipe Zipitría](https://www.linkedin.com/in/felipezipitria/). Presentación [aquí](https://drive.google.com/file/d/14EweUSdOEwXAa8tHdkux-XBNB1fgMp6I/view?usp=sharing).
+* Descubriendo tesoros ocultos en el mundo Java - [Andrés Gómez](https://www.linkedin.com/in/andresgo/). Presentación pendiente para publicar, temporalmente referirse a la [versión presentada en Ekoparty 2023](https://www.youtube.com/watch?v=sMfoCWLbTzY).
+
+#### Imágenes:
+{% include carousel.md name="meetup_06_2024" data=site.data.meetup_06_2024 id=17 %}
+
+### IT Builders Live (25/05)
+
+El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo dos espacios dedicados: la charla "Potenciales problemas de seguridad en LLMs" y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
+
+[Presentación: IT Builders - Potenciales problemas de seguridad en LLMs](https://docs.google.com/presentation/d/1jSAoBNPg668e4JuxKnJm93vBDVQkb9DGc_dM1BEws6w/).
+Video de la presentación en [YouTube](https://www.youtube.com/watch?v=xDTzXccq9QY).
+
 ### Meetup de mayo (07/05)
 Charlas de exponente invitado y líderes del capítulo, en el espacio ofrecido por [Urudata](https://www.urudata.com/).
 
@@ -359,7 +378,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
 .cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023,
-.meetup_04_2024, .meetup_05_2024 {
+.meetup_04_2024, .meetup_05_2024, .meetup_06_2024 {
   display: none; 
   height: 600px;
 }
@@ -405,7 +424,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when add one carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -424,7 +443,8 @@ var slideId = [
   "appsec_intro_2023_day_2",
   "meetup_devmode_10_2023",
   "meetup_04_2024",
-  "meetup_05_2024"
+  "meetup_05_2024",
+  "meetup_06_2024"
   ];
 showSlides(1, 0);
 showSlides(1, 1);
@@ -443,6 +463,7 @@ showSlides(1, 13);
 showSlides(1, 14);
 showSlides(1, 15);
 showSlides(1, 16);
+showSlides(1, 17);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
