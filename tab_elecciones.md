@@ -8,15 +8,23 @@ tags: Uruguay
 
 # Elecciones de líderes 2024-2026
 
-En el mes de julio, por el anuncio en nuestros canales se postularon cuatro personas para co-liderar el capítulo Uruguay. El día 17 de agosto se tomará del Google Group la lista de participantes para votar y se dejará un plazo de una semana para la votación. Una vez finalizada se publicarán los tres líderes para el período 2024-2026. Por lo tanto, quienes estén interesados en participar pueden unirse al grupo en el siguiente enlace: https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter.
+En el mes de julio, por el anuncio en nuestros canales se postularon cuatro personas para co-liderar el capítulo Uruguay. El día 17 de agosto se tomará del Google Group la lista de participantes para votar y se dejará un plazo de una semana para la votación. Una vez finalizada se publicarán los tres líderes para el período 2024-2026. Por lo tanto, quienes estén interesados en participar pueden unirse al grupo en el siguiente enlace:
+
+[Google group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter).
+
+
+## Candidatos
 
 A continuación se presenta la información enviada por los postulados, personal y de propuesta, en orden de postulación del formulario:
+- <a href="#mateo-martinez-linkedin">Mateo Martinez</a>
+- <a href="#pablo-alzuri-linkedin">Pablo Alzuri</a>
+- <a href="#martín-marsicano-linkedin">Martín Marsicano</a>
+- <a href="#guillermo-rodríguez-linkedin">Guillermo Rodríguez</a>
 
-## Mateo Martinez
 
-![Mateo](/www-chapter-uruguay/assets/images/elecciones_2024/elecciones-mateo.jpeg)
+## Mateo Martinez ([LinkedIn](https://www.linkedin.com/in/mateomartinez/))
 
-LinkedIn: https://www.linkedin.com/in/mateomartinez/
+<img alt="Mateo" src="assets/images/elecciones_2024/elecciones-mateo.jpeg" style="width:400px;height:400px;"/>
 
 ### Resumen de CV y experiencia
 Actualmente cursando doctorado en Ciencias Informáticas en la Universidad Nacional de la Plata (Argentina) en temas de ciberinteligencia de amenazas. Máster en Seguridad Informática (España) por la Universidad UNIR. Ingeniero en Sistemas computacionales graduado con excelencia académica por UTEL en México. Especializado en Centros de Respuesta a Incidentes por INCIBE, OEA y la Universidad de León. Cuenta con las certificaciones internacionales CISSP (Certified Information Systems Security Professional) de (ISC)2, C|EH (Certified Ethical Hacker) de EC-Council, ISO 27001 Senior Lead Implementer de PECB, ISO 27032 Lead Cybersecurity Manager, ITIL, entre otras. Es Docente del Máster de Ciberseguridad del Tecnológico de Monterrey en México, es Docente del Máster en Ciberseguridad en UTH Florida (Estados Unidos), es docente del diplomado en Ciberseguridad de la UCOM en Paraguay y docente del Diplomado de Ciberseguridad de la Universidad ORT Uruguay. 
@@ -28,11 +36,10 @@ Ha sido líder del capítulo OWASP Uruguay por 10 años y coordinador del evento
 ### Ideas/propuestas
 Propongo generar acciones para hacer crecer la cantidad de miembros activos y pagos de OWASP mediante la generación de valor para las empresas e individuos, fortaleciendo la presencia del capítulo en el mercado local y mediante la búsqueda de nuevos proyectos OWASP de origen local. Búsqueda de financiamiento de proyectos por parte de empresas locales e internacionales. Propongo traer nuevamente OWASP Appsec y OWASP Rio de la Plata a Montevideo. Propongo retomar el intercambio de speakers regionales y la integración de capítulos latinos. Mantener los Meetups mensuales en venues de empresas y entidades locales, gran actividad generada en el presente periodo. Propongo descartar esfuerzos voluntarios de traductorado voluntario de documentos y buscar fondos para traducción profesional.
 
-## Pablo Alzuri
 
-![Pablo](/www-chapter-uruguay/assets/images/elecciones_2024/elecciones-pablo.jpeg)
+## Pablo Alzuri ([LinkedIn](https://www.linkedin.com/in/palzuri/)
 
-LinkedIn: https://www.linkedin.com/in/palzuri/
+<img alt="Pablo" src="assets/images/elecciones_2024/elecciones-pablo.jpeg" style="width:400px;height:400px;"/>
 
 ### Resumen de CV y experiencia
 
@@ -47,29 +54,27 @@ Propongo mantener las actividades actuales con el objetivo de acercar a los desa
 
 Por otro lado, sugiero crear encuentros entre la academia, la industria y otras organizaciones relevantes en la tematica, como AGESIC. Creo que OWASP puede actuar como un nexo natural para impulsar la seguridad informática y fomentar colaboraciones productivas entre estos sectores.
 
-## Martín Marsicano
 
-![Martín](/www-chapter-uruguay/assets/images/elecciones_2024/elecciones-martin.jpeg)
+## Martín Marsicano ([LinkedIn](https://www.linkedin.com/in/martinmarsicano/))
 
-LinkedIn: https://www.linkedin.com/in/martinmarsicano/
+<img alt="Martín" src="assets/images/elecciones_2024/elecciones-martin.jpeg" style="width:400px;height:400px;"/>
 
 ### Resumen de CV y experiencia
 Ingeniero en Computación y actualmente cursando la Especialización en Seguridad Informática de la Universidad de la República (UdelaR).
 
 Soy integrante del capítulo Uruguay y de la OWASP Foundation desde 2014, fui líder del capítulo Uruguay en el período 2020-2022, actualmente Lifetime Member de la OWASP Foundation y siempre intento colaborar en lo que pueda o me da el tiempo, incluyendo traducciones, documentación o código en varios proyectos de OWASP (Mobile Application Security Project, Projects Integration [o Integration Standards], DefectDojo, Top 10, ASVS, DSOMM, SKF [ex proyecto de OWASP]) y a nivel local, dando una mano con los eventos, la página, la cuenta de X (ex Twitter), cuenta de YouTube y grupo de Meetup.
 
-Tanto en OWASP como profesionalmente he colaborado y dado charlas y cursos acerca de los distintos proyectos de OWSAP. He implementado e introducido varios de ellos en distintos lugares adaptándolos o eligiéndolos según sus necesidades. Como consultor en seguridad (además, a veces desarrollador, a veces DevSecOps, a veces consultor en tecnologías), trabajo mucho con los distintos integrantes del equipo de desarrollo y siempre intento conocer los problemas, ventajas y desventajas de las últimas tecnologías que manejan para poder ayudarlos a hacer el software más seguro.
+Tanto en OWASP, como profesionalmente, he colaborado y dado charlas y cursos acerca de los distintos proyectos de OWSAP. He implementado e introducido varios de ellos en distintos lugares adaptándolos o eligiéndolos según sus necesidades. Como consultor en seguridad (a veces casi desarrollador, a veces DevSecOps, a veces consultor en tecnologías), trabajo mucho con los distintos integrantes del equipo de desarrollo y siempre intento conocer los problemas, ventajas y desventajas de las últimas tecnologías que manejan para poder ayudarlos a hacer el software más seguro.
 
 ### Ideas/propuestas
 Mi principal idea es continuar con el enfoque de las reuniones del capítulo a los participantes del ciclo de desarrollo, principalmente a los desarrolladores, pero también a los testers, funcionales, DevOps, infraestructura y en como integrar al ciclo de desarrollo a los expertos en seguridad, pentesters, bounty hunters, etc., como se ha estado realizando con los talleres y charlas durante varios años. Además de seguir promoviendo y colaborando con los distintos proyectos de OWASP desde el capitulo e incentivar a que se sumen los distintos participantes de las reuniones y volver a realizar reuniones más grande como las AppSec.
 
 Esto es, continuar realizando meetups hablando de seguridad, proyectos de OWASP y como integrarlos en el ciclo de desarrollo sin importar las tecnologías y lenguajes que utilicen, ya sea en formato de charlas o talleres. Siguiendo con la colaboración con las distintas universidades e integrando a las distintas empresas que ya utilizan o están interesados en conocer más sobre los proyectos de OWASP, ya sea, compartiendo sus oficinas para las meetups y/o proponiendo charlas o talleres (siendo siempre abiertos para gente fuera de la empresa colaboradora). Intentar que las charlas y talleres vuelvan a quedar disponibles en YouTube, para que tengan más difusión y volver a realizar un evento del tamaño del AppSec, con mayor cantidad de charlas y talleres juntas. También intentar realizar colaboraciones con distintas organizaciones del país (meetups de desarrolladores y organizaciones de seguridad) y capítulos de OWASP de habla hispana (como se hizo con los OWASP LATAM y LATAM@Home).
 
-## Guillermo Rodríguez
 
-![Guillermo](/www-chapter-uruguay/assets/images/elecciones_2024/elecciones-guillermo.jpeg)
+## Guillermo Rodríguez ([LinkedIn](https://www.linkedin.com/in/guillermo85/))
 
-LinkedIn: https://www.linkedin.com/in/guillermo85/
+<img alt="Guillermo" src="assets/images/elecciones_2024/elecciones-guillermo.jpeg" style="width:400px;height:400px;"/>
 
 ### Resumen de CV y experiencia
 Más de 20 años de experiencia como Profesional en diferentes ámbitos de la Ciberseguridad y Seguridad de la Información.
