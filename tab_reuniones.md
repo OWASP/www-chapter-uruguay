@@ -11,6 +11,7 @@ tags: Uruguay
 Debajo se encuentran los links a las minutas de cada reunión.
 
 ## 2024
+* [Uruguay-Minuta-06-ago-2024](https://docs.google.com/document/d/10TTkwjfz4DgN6_a-f3BfQJvvYOnxinDyAFW9e7J8tUI/)
 * [Uruguay-Minuta-02-jul-2024](https://docs.google.com/document/d/1pQQcWYSX1nRdyBp4MgAtAChrhYw1Gm1rP_ALRcJ_gws/)
 * [Uruguay-Minuta-04-jun-2024](https://docs.google.com/document/d/1OrH0FMchGhHJ9W7ibtDe6NSE-p6VrP1MyRVo7upqYQY/)
 * [Uruguay-Minuta-03-may-2024](https://docs.google.com/document/d/1rEQ5ZgrayZgu7pYci7TJhCf0qcO7uSAW6DM67jVcI8g/)
