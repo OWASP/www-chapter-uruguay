@@ -37,7 +37,7 @@ Ha sido líder del capítulo OWASP Uruguay por 10 años y coordinador del evento
 Propongo generar acciones para hacer crecer la cantidad de miembros activos y pagos de OWASP mediante la generación de valor para las empresas e individuos, fortaleciendo la presencia del capítulo en el mercado local y mediante la búsqueda de nuevos proyectos OWASP de origen local. Búsqueda de financiamiento de proyectos por parte de empresas locales e internacionales. Propongo traer nuevamente OWASP Appsec y OWASP Rio de la Plata a Montevideo. Propongo retomar el intercambio de speakers regionales y la integración de capítulos latinos. Mantener los Meetups mensuales en venues de empresas y entidades locales, gran actividad generada en el presente periodo. Propongo descartar esfuerzos voluntarios de traductorado voluntario de documentos y buscar fondos para traducción profesional.
 
 
-## Pablo Alzuri ([LinkedIn](https://www.linkedin.com/in/palzuri/)
+## Pablo Alzuri ([LinkedIn](https://www.linkedin.com/in/palzuri/))
 
 <img alt="Pablo" src="assets/images/elecciones_2024/elecciones-pablo.jpeg" style="width:400px;height:400px;"/>
 
