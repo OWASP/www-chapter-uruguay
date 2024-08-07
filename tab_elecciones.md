@@ -10,7 +10,7 @@ tags: Uruguay
 
 En el mes de julio, por el anuncio en nuestros canales se postularon cuatro personas para co-liderar el capítulo Uruguay. El día 17 de agosto se tomará del Google Group la lista de participantes para votar y se dejará un plazo de una semana para la votación. Una vez finalizada se publicarán los tres líderes para el período 2024-2026. Por lo tanto, quienes estén interesados en participar pueden unirse al grupo en el siguiente enlace:
 
-[Google group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter).
+[Google Group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter).
 
 
 ## Candidatos
