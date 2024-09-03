@@ -7,6 +7,11 @@ tags: Uruguay
 ---
 # Eventos
 
+## Siguiente(s) Meetup/Evento(s)
+{% include chapter_events.html group=page.meetup-group %}
+
+
+
 ## 2024
 
 ### Meetup de agosto (14/08)
@@ -21,6 +26,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="meetup_08_2024" data=site.data.meetup_08_2024 id=19 %}
 
+
 ### Meetup de julio (16/07)
 Charlas de miembros del capítulo, en el espacio ofrecido por [Howdy](https://www.howdy.com/).
 
@@ -32,6 +38,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 #### Imágenes:
 {% include carousel.md name="meetup_07_2024" data=site.data.meetup_07_2024 id=18 %}
+
 
 ### Meetup de junio (11/06)
 Charlas de exponentes invitados, en el espacio ofrecido por [Isbel](https://isbel.com/).
@@ -45,12 +52,14 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="meetup_06_2024" data=site.data.meetup_06_2024 id=17 %}
 
+
 ### IT Builders Live (25/05)
 
 El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo dos espacios dedicados: la charla "Potenciales problemas de seguridad en LLMs" y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
 
 [Presentación: IT Builders - Potenciales problemas de seguridad en LLMs](https://docs.google.com/presentation/d/1jSAoBNPg668e4JuxKnJm93vBDVQkb9DGc_dM1BEws6w/).
 Video de la presentación en [YouTube](https://www.youtube.com/watch?v=xDTzXccq9QY).
+
 
 ### Meetup de mayo (07/05)
 Charlas de exponente invitado y líderes del capítulo, en el espacio ofrecido por [Urudata](https://www.urudata.com/).
@@ -64,6 +73,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="meetup_05_2024" data=site.data.meetup_05_2024 id=16 %}
 
+
 ### Meetup de abril (16/04)
 Charlas de exponentes invitados, en el espacio ofrecido por [Nexa IT](https://maps.app.goo.gl/o9FhShY2xGLPs4j96).
 
@@ -76,6 +86,8 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 #### Imágenes:
 {% include carousel.md name="meetup_04_2024" data=site.data.meetup_04_2024 id=15 %}
 
+
+
 ## 2023
 
 ### Meetup Developer mode (24/10)
@@ -83,6 +95,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 Meetup orientada a desarrolladores siguiendo el formato de la jornada del 27/09 (ver más abajo). Se llevó a cabo en [GEOCOM Uruguay](https://maps.app.goo.gl/MG9tXBkgLLKaZT7s6).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/296685550/).
+
 
 ### Meetup Developer mode (27/09)
 
@@ -161,6 +174,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 {% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=9 %}
 
 
+
 ## 2022
 
 ### Introducción a la seguridad de aplicaciones - Edición diciembre (13/12)
@@ -237,6 +251,7 @@ Se realizó una Meetup híbrida en la cual se logró volver a la presencialidad 
 
 #### Grabación:
 [YouTube](https://youtu.be/fBmVoGkJ40M)
+
 
 
 ## 2021
@@ -342,6 +357,7 @@ Por la pandemia del Covid-19, se canceló el OWASP LATAM TOUR 2020 de manera pre
 [Sitio del evento](https://owasp.org/www-event-2020-latam-at-home/)
 
 Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=jLXMbpcrPyA&list=PLiooNakZQW8qrTERT0oq7n_4zmq79Y8WU).
+
 
 
 ## 2019
