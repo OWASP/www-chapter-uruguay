@@ -5,7 +5,7 @@
 <a href="https://calendar.google.com/calendar/ical/c_bomp2flp3i91hm9kil9l8g4ssk%40group.calendar.google.com/public/basic.ics">Formato iCal</a>
 </div>
 
-### Redes sociales (social links)
+### Redes sociales
 * [Slack](https://owasp.slack.com/messages/owasp-uruguay/) (canal de organización)
 * [Registro Slack](https://owasp.org/slack/invite)
 * [Google Group OWASP Uruguay](https://groups.google.com/a/owasp.org/forum/#!forum/uruguay-chapter)
@@ -15,17 +15,11 @@
 * [YouTube](https://www.youtube.com/channel/UC0-Z2Mufb062rREkmmEHTHQ)
 * [LinkedIn](https://www.linkedin.com/groups/3673287/)
 
-### Twitter Feed
-<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/owasp_uy?ref_src=twsrc%5Etfw">OWASP UY en Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-### Board members
-* [Enrique Rossel](mailto:enrique.rossel@owasp.org)
+### Active members
 * [Felipe Zipitría](mailto:felipe.zipitria@owasp.org)
-* [Guillermo Talento](mailto:guillermo.talento@owasp.org)
-* [Martín Marsicano](mailto:martin.marsicano@owasp.org)
-* [Mateo Martínez](mailto:mateo.martinez@owasp.org)
+* [Gerardo Canedo](mailto:gerardo.canedo@owasp.org)
+* [Lex Randazzo](mailto:lex.randazzo@owasp.org)
 * [Mauro Flores](mailto:mauro.flores@owasp.org)
 * [Maximiliano Alonzo](mailto:maximiliano.alonzo@owasp.org)
-* [Pablo Alzuri](mailto:pablo.alzuri@owasp.org)
-* [Rodrigo Martinez](mailto:rodrigo.martinez@owasp.org)
+* [Sebastián Passaro](mailto:sebastian.passaro@owasp.org)
+* Wander Astorga
