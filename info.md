@@ -16,10 +16,11 @@
 * [LinkedIn](https://www.linkedin.com/groups/3673287/)
 
 ### Active members
+* [Enrique Rossel](mailto:enrique.rossel@owasp.org)
 * [Felipe Zipitría](mailto:felipe.zipitria@owasp.org)
 * [Gerardo Canedo](mailto:gerardo.canedo@owasp.org)
 * [Lex Randazzo](mailto:lex.randazzo@owasp.org)
 * [Mauro Flores](mailto:mauro.flores@owasp.org)
-* [Maximiliano Alonzo](mailto:maximiliano.alonzo@owasp.org)
+* Maximiliano Alonzo
 * [Sebastián Passaro](mailto:sebastian.passaro@owasp.org)
 * Wander Astorga
