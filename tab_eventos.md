@@ -14,6 +14,19 @@ tags: Uruguay
 
 ## 2024
 
+### Meetup de setiembre (10/09)
+Charlas de miembros del capítulo, en el espacio ofrecido por [ISACA Montevideo Chapter](https://engage.isaca.org/montevideochapter/home).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/303204126/).
+
+#### Presentaciones:
+* Modelado de Amenazas Aplicando STRIDE con Threat Dragon de OWASP - [Pablo Alzuri](https://uy.linkedin.com/in/palzuri). Presentación [aquí](https://drive.google.com/file/d/105bxbv_GVxpCBiIzu7MYWppQHbvg0uto/view?usp=sharing).
+* Historias de ransomware - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro). Presentación [aquí](https://docs.google.com/presentation/d/1rz6iYW_8MZnMMdF6srE9V_QOd1hZDRDo/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true).
+
+#### Imágenes:
+{% include carousel.md name="meetup_09_2024" data=site.data.meetup_09_2024 id=20 %}
+
+
 ### Meetup de agosto (14/08)
 Charlas de miembros del capítulo, en el espacio ofrecido por [Lugapel](https://lugapel.com/).
 
@@ -502,12 +515,12 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 <!-- CSS and JS needed for carousel -->
 <style>
 * {box-sizing: border-box}
-/* Must change when add one carousel */
+/* Must change when adding one new carousel */
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
 .cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023,
-.meetup_04_2024, .meetup_05_2024, .meetup_06_2024, .meetup_07_2024, .meetup_08_2024 {
+.meetup_04_2024, .meetup_05_2024, .meetup_06_2024, .meetup_07_2024, .meetup_08_2024, .meetup_09_2024 {
   display: none; 
   height: 600px;
 }
@@ -531,12 +544,13 @@ img {vertical-align: middle}
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  background-color: #f1f1f1;
+  color: black;
 }
 
 /* Position the "next button" to the right */
@@ -544,17 +558,11 @@ img {vertical-align: middle}
   right: 0;
   border-radius: 3px 0 0 3px;
 }
-
-/* On hover, add a grey background color */
-.prev:hover, .next:hover {
-  background-color: #f1f1f1;
-  color: black;
-}
 </style>
 <script>
-/* Must change when add one carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
-/* Must change when add one carousel */
+/* Must change when adding one new carousel */
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+/* Must change when adding one new carousel */
 var slideId = [
   "latam_tour_2018", 
   "owasp_day_utec_2018", 
@@ -575,8 +583,10 @@ var slideId = [
   "meetup_05_2024",
   "meetup_06_2024",
   "meetup_07_2024",
-  "meetup_08_2024"
+  "meetup_08_2024",
+  "meetup_09_2024"
   ];
+/* Must change when adding one new carousel */
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
@@ -597,6 +607,7 @@ showSlides(1, 16);
 showSlides(1, 17);
 showSlides(1, 18);
 showSlides(1, 19);
+showSlides(1, 20);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
@@ -610,6 +621,7 @@ function showSlides(n, no) {
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";  
   }
-  x[slideIndex[no]-1].style.display = "flex";  
+  x[slideIndex[no]-1].style.display = "flex";
+  x[slideIndex[no]-1].style.placeContent = "center";
 }
 </script>
