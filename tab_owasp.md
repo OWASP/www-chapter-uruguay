@@ -27,7 +27,7 @@ Ofrece proyectos que están categorizados según Nivel o Tipo.
 * Código <i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i>
 
 ### Listado actual de proyectos
-El listado actual de los proyectos y su categorización se puede encontar [aquí](https://owasp.org/projects)
+El listado actual de los proyectos y su categorización se puede encontrar [aquí](https://owasp.org/projects)
 
 ## Capítulos Locales
 * Comunidades interesadas en Seguridad de Aplicaciones
