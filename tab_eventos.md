@@ -408,7 +408,96 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 
 #### Imágenes:
 {% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=0 %}
-<!-- TODO: link a eventos anteriores -->
+
+
+
+## 2017
+
+### OWASP DAY 2017 en la UM
+Se realizó el OWASP DAY 2017 en la UM el 29 de agosto. [Link del evento](https://www.eventbrite.com/e/owasp-day-tickets-37112982931)
+
+
+### OWASP LATAM TOUR 2017 - URUGUAY
+Se realizó el OWASP LATAM TOUR 2017 en Uruguay del 5 al 6 de abril de 2017. El 5 son los talleres en el Hotel IBIS, y el 6 es la conferencia en Facultad de Ingenieria UDELAR.
+
+## Nos volvimos locos y liberamos el material del trainig OWASP TOP 10 Hands on durante el OWASP LATAM TOUR 2017 - URUGUAY - DESCARGA GRATUITA
+Descargar [aqui](https://drive.google.com/drive/folders/0B6zv033D1iK9eTJId2RhZkJFTlk?usp=sharing) el taller OWASP Top 10 Hands On basado en OWASP Top 10 y Juice Shop
+
+
+
+## 2016
+
+### OWASP APPSEC RIO DE LA PLATA 2016
+Se realizó el OWASP APPSEC RIO DE LA PLATA 2016 en Uruguay del 1 al 2 de diciembre de 2016 en el Auditorio de ANTEL.
+
+
+### 22 September 2016 - Builders & Defenders 101 (B&D101) (MONTEVIDEO)
+En este evento queremos invitar a la comunidad de desarrollo y administración de sistemas a conocer algunos principios básicos de la seguridad informática. No creemos en largas exposiciones, sino en trabajo práctico. Trae tu laptop y sumate al desafío que plantearemos. El evento se realizó en Andes y 18 ( oficinas de AGESIC ), piso 7, Montevideo, Uruguay de 18:30 a 21:30hs. El registro es gratuito pero solo hay 50 cupos. ´[Haga clic aqui para acceder al evento](https://www.eventbrite.com/e/builders-defenders-101-bd101-tickets-27423701028)
+
+
+### OWASP LATAM TOUR 2016 (MONTEVIDEO)
+Se realizó la conferencia gratuita OWASP LATAM TOUR 2016! Y el evento en Uruguay será el 21 de abril de 2016 en la Universidad ORT Uruguay
+
+
+
+## 2015
+
+### OWASP APPSEC RIO DE LA PLATA
+Se realizó el OWASP APPSEC RIO DE LA PLATA en Uruguay del 2 al 3 de diciembre de 2015 en el Auditorio de ANTEL.
+
+
+### OWASP Latam Tour 2015 in Uruguay
+Se realizó el OWASP Latam Tour Uruguay en la Universidad Católica el día 15 de abril de 2015.
+
+
+
+## 2014
+
+### OWASP LATAM TOUR 2014 in URUGUAY!
+Se realizó el OWASP LATAM TOUR 2014 en Montevideo durante los días 29 y 30 de abril.
+
+
+
+## 2013
+
+### OWASP DAY
+Se realizó el OWASP Day Uruguay en FING el día 12 de noviembre de 2013.
+
+
+### OWASP DAY
+Se realizó el OWASP Day Uruguay en Universidad ORT el día 9 de julio de 2013 a partir de las 19 hs en la sede de Cuareim.
+
+
+### OWASP LATAM Tour 2013 - IN MONTEVIDEO!!!
+La clásica conferencia regional de seguridad OWASP LATAM Tour se desarrollará en la Universidad Católica, en Montevideo durante los días 4 y 5 de abril.
+
+
+
+## 2012
+
+### OWASP AppSec Latam 2012 - IN MONTEVIDEO!!!
+La Conferencia global de seguridad OWASP AppSec se desarrollará en ANTEL, en Montevideo durante los días 18, 19, 20 y 21 de noviembre.
+
+
+### OWASP Latam Tour
+OWASP Latam Tour en Uruguay el próximo 16 de mayo! A partir de las 18hs en el Aulario al lado de Facultad de Ingeniería.
+
+
+
+## 2011
+
+### Se realizó el 2nd OWASP DAY URUGUAY!!
+El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el pasado 26 de julio de 2011, el 2do OWASP DAY Uruguay.
+
+
+
+## 2010
+
+### Se realizó el 1st OWASP DAY URUGUAY!!
+
+El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el pasado 9 de Diciembre de 2010, la conferencia: <b>Seguridad en Aplicaciones Web: “Entendiendo las armas del enemigo”, con el auditorio lleno.
+
+
 
 <!-- CSS and JS needed for carousel -->
 <style>

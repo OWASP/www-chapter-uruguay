@@ -1,6 +1,7 @@
 __pycache__
 env
 .vscode
+.idea
 .jekyll-metadata
 Gemfile.lock
 _site
