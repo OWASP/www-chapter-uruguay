@@ -14,14 +14,27 @@ tags: Uruguay
 
 ## 2024
 
+### Meetup de octubre (10/10)
+Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Willin](https://willinn.io/) y [Holberton School](https://holbertonschool.uy/).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/304077194/).
+
+#### Presentaciones:
+* ¿Qué conocen de nuestra organización que nosotros no sabemos? - Huella Digital - [Guillermo Jacobi](https://uy.linkedin.com/in/guillermojacobi) y Diego Rosa. Presentación [aquí]().
+* Secure Coding Dojo: El primer paso en el desarrollo seguro - [Gerardo Canedo](https://uy.linkedin.com/in/gcanedo) (OWASP Uruguay). Presentación [aquí](https://github.com/OWASP/SecureCodingDojo/blob/main/workshop/es/SecureCoding101.pptx).
+
+#### Imágenes:
+{% include carousel.md name="meetup_10_2024" data=site.data.meetup_10_2024 id=21 %}
+
+
 ### Meetup de setiembre (10/09)
 Charlas de miembros del capítulo, en el espacio ofrecido por [ISACA Montevideo Chapter](https://engage.isaca.org/montevideochapter/home).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/303204126/).
 
 #### Presentaciones:
-* Modelado de Amenazas Aplicando STRIDE con Threat Dragon de OWASP - [Pablo Alzuri](https://uy.linkedin.com/in/palzuri). Presentación [aquí](https://drive.google.com/file/d/105bxbv_GVxpCBiIzu7MYWppQHbvg0uto/view?usp=sharing).
-* Historias de ransomware - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro). Presentación [aquí](https://docs.google.com/presentation/d/1rz6iYW_8MZnMMdF6srE9V_QOd1hZDRDo/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true).
+* Modelado de Amenazas Aplicando STRIDE con Threat Dragon de OWASP - [Pablo Alzuri](https://uy.linkedin.com/in/palzuri) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/105bxbv_GVxpCBiIzu7MYWppQHbvg0uto/view?usp=sharing).
+* Historias de ransomware - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1rz6iYW_8MZnMMdF6srE9V_QOd1hZDRDo/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true).
 
 #### Imágenes:
 {% include carousel.md name="meetup_09_2024" data=site.data.meetup_09_2024 id=20 %}
@@ -33,7 +46,7 @@ Charlas de miembros del capítulo, en el espacio ofrecido por [Lugapel](https://
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/302636627/).
 
 #### Presentaciones:
-* Polyfill y Openssh ¿Qué hacemos? - [Mateo Martínez](https://www.linkedin.com/in/mateomartinez/). Presentación [aquí](https://drive.google.com/file/d/1I76P41IrxildmplYr5Vf8NfPOoLLpHHn/view?usp=sharing).
+* Polyfill y Openssh ¿Qué hacemos? - [Mateo Martínez](https://www.linkedin.com/in/mateomartinez/) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1I76P41IrxildmplYr5Vf8NfPOoLLpHHn/view?usp=sharing).
 * Cómo hackearán a tu familia - [Hector "Chiche" Pardiñas](https://www.linkedin.com/in/hector-pardi%C3%B1as-40301460/). Presentación [aquí](https://drive.google.com/file/d/1oal6YDAeNMdYyt3gtevdHG1hWHS-DQei/view?usp=sharing).
 
 #### Imágenes:
@@ -46,8 +59,8 @@ Charlas de miembros del capítulo, en el espacio ofrecido por [Howdy](https://ww
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/302007575/).
 
 #### Presentaciones:
-* Security by design - [Maximiliano Alonzo](https://uy.linkedin.com/in/maximiliano-alonzo-18075720). Presentación [aquí](https://drive.google.com/file/d/14EOu21Quvs3ZmiPPdUH6L5Ql89HEVNPN/).
-* Bug bounty 101 - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro). Presentación [aquí](https://docs.google.com/presentation/d/1UuuAlZQzb-hS24XPT7qY9N1XZ4qGS3DuuQi-aMHa4-A/), con referencia a una pasada que se encuentra más abajo en la sección de 2019.
+* Security by design - [Maximiliano Alonzo](https://uy.linkedin.com/in/maximiliano-alonzo-18075720) (ISACA UY y OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/14EOu21Quvs3ZmiPPdUH6L5Ql89HEVNPN/).
+* Bug bounty 101 - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1UuuAlZQzb-hS24XPT7qY9N1XZ4qGS3DuuQi-aMHa4-A/), con referencia a una pasada que se encuentra más abajo en la sección de 2019.
 
 #### Imágenes:
 {% include carousel.md name="meetup_07_2024" data=site.data.meetup_07_2024 id=18 %}
@@ -59,7 +72,7 @@ Charlas de exponentes invitados, en el espacio ofrecido por [Isbel](https://isbe
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/301263486/).
 
 #### Presentaciones:
-* Fingerprinting en la Web - [Felipe Zipitría](https://www.linkedin.com/in/felipezipitria/). Presentación [aquí](https://drive.google.com/file/d/14EweUSdOEwXAa8tHdkux-XBNB1fgMp6I/view?usp=sharing).
+* Fingerprinting en la Web - [Felipe Zipitría](https://www.linkedin.com/in/felipezipitria/) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/14EweUSdOEwXAa8tHdkux-XBNB1fgMp6I/view?usp=sharing).
 * Descubriendo tesoros ocultos en el mundo Java - [Andrés Gómez](https://www.linkedin.com/in/andresgo/). Presentación pendiente para publicar, temporalmente referirse a la [versión presentada en Ekoparty 2023](https://www.youtube.com/watch?v=sMfoCWLbTzY).
 
 #### Imágenes:
@@ -130,7 +143,7 @@ Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/295521802/).
 
 #### Presentaciones:
-* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
+* [Intro OWASP y OWASP Uruguay](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
 * [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
 
 #### Imágenes:
@@ -146,7 +159,7 @@ Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWAS
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/294654645/).
 
 #### Presentaciones:
-* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
+* [Intro OWASP y OWASP Uruguay](https://docs.google.com/presentation/d/141T3lhZn_L0UEV2bBDzZyUkin_hwWCyFaXg2RhcBKvs/edit?usp=sharing).
 * [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
 
 #### Imágenes:
@@ -181,7 +194,7 @@ Evento enfocado en inyecciones en SQL (SQLi), llevado a cabo en la Universidad C
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/292840705).
 
-[Material público utilizado en la exposición](https://owasp-uruguay.github.io/sqli-en-la-practica/) creado por OWASP UY.
+[Material público utilizado en la exposición](https://owasp-uruguay.github.io/sqli-en-la-practica/) creado por OWASP Uruguay.
 
 #### Imágenes:
 {% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=9 %}
@@ -200,7 +213,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 {% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=8 %}
 
 
-### Meetup de charlas por OWASP UY + invitados (23/11)
+### Meetup de charlas por OWASP Uruguay + invitados (23/11)
 
 Evento de charlas en la Facultad de Ingeniería de Universidad ORT. Se trató el tema diseño y modelado de amenazas con el caso práctico del sistema "Uruguay se vacuna", continuando con el ciclo de charlas de SDLC. También se mostró la aplicación de OWASP SAMM desde la experiencia vinculándolo con frameworks PCI y cómo impacta en la evaluación de madurez de una empresa y la estrategia de seguridad a seguir. Desde el exterior tuvimos una charla remota sobre seguridad en smart contracts con varios recursos guiando por dónde comenzar en el tema del testing en el área.
 
@@ -221,7 +234,7 @@ Algunos enlaces útiles mencionados en el video:
 
 ### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
 
-Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Holberton School](https://goo.gl/maps/MAxz76MCWuX8Cn6z7). 
+Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Holberton School](https://holbertonschool.uy/). 
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/).
 
@@ -247,7 +260,7 @@ Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWAS
 Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/events/287126677/).
 
 #### Presentaciones:
-* [Intro OWASP y OWASP UY](https://docs.google.com/presentation/d/1XsGn0I7sRMa8Uh8-Ta_KNKJoutT5n-w5H-EeFe82xs0/edit?usp=sharing).
+* [Intro OWASP y OWASP Uruguay](https://docs.google.com/presentation/d/1XsGn0I7sRMa8Uh8-Ta_KNKJoutT5n-w5H-EeFe82xs0/edit?usp=sharing).
 * [Introducción a la jornada](https://drive.google.com/file/d/124HnABLbnpVpxrQJn0-l95CHcF_s_Mv-/view?usp=sharing), con enlaces a varios recursos y objetivos del evento.
 
 #### Imágenes:
@@ -379,7 +392,7 @@ Vuelve a ver las charlas [aquí](https://www.youtube.com/watch?v=jLXMbpcrPyA&lis
 Se realizó la 1era Meetup el día 16 de noviembre en el Aulario de la Facultad de Ingeniería de la UdelaR.
 
 #### Presentaciones:
-* OWASP y OWASP UY: introducción y 2020. [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1KWmiBMCsW7dCHtYsqBb7DSBnYgvSJG-k/view?usp=sharing).
+* OWASP y OWASP Uruguay: introducción y 2020. [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1KWmiBMCsW7dCHtYsqBb7DSBnYgvSJG-k/view?usp=sharing).
 
 #### Imágenes:
 {% include carousel.md name="meetup_2019" data=site.data.meetup_2019 id=3 %}
@@ -520,7 +533,8 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
 .cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023,
-.meetup_04_2024, .meetup_05_2024, .meetup_06_2024, .meetup_07_2024, .meetup_08_2024, .meetup_09_2024 {
+.meetup_04_2024, .meetup_05_2024, .meetup_06_2024, .meetup_07_2024, .meetup_08_2024, .meetup_09_2024,
+.meetup_10_2024 {
   display: none; 
   height: 600px;
 }
@@ -561,7 +575,7 @@ img {vertical-align: middle}
 </style>
 <script>
 /* Must change when adding one new carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when adding one new carousel */
 var slideId = [
   "latam_tour_2018", 
@@ -584,7 +598,8 @@ var slideId = [
   "meetup_06_2024",
   "meetup_07_2024",
   "meetup_08_2024",
-  "meetup_09_2024"
+  "meetup_09_2024",
+  "meetup_10_2024"
   ];
 /* Must change when adding one new carousel */
 showSlides(1, 0);
@@ -608,6 +623,7 @@ showSlides(1, 17);
 showSlides(1, 18);
 showSlides(1, 19);
 showSlides(1, 20);
+showSlides(1, 21);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
