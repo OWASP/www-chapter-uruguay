@@ -20,7 +20,7 @@ Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Wil
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/304077194/).
 
 #### Presentaciones:
-* ¿Qué conocen de nuestra organización que nosotros no sabemos? - Huella Digital - [Guillermo Jacobi](https://uy.linkedin.com/in/guillermojacobi) y Diego Rosa. Presentación [aquí]().
+* ¿Qué conocen de nuestra organización que nosotros no sabemos? - Huella Digital - [Guillermo Jacobi](https://uy.linkedin.com/in/guillermojacobi) y Diego Rosa. Presentación [aquí](https://drive.google.com/file/d/1jMUWmeJhoI5wvFoquZ_cYj_rhTCANoXM/view?usp=sharing).
 * Secure Coding Dojo: El primer paso en el desarrollo seguro - [Gerardo Canedo](https://uy.linkedin.com/in/gcanedo) (OWASP Uruguay). Presentación [aquí](https://github.com/OWASP/SecureCodingDojo/blob/main/workshop/es/SecureCoding101.pptx).
 
 #### Imágenes:
