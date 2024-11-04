@@ -15,7 +15,7 @@ tags: Uruguay
 ## 2024
 
 ### Meetup de octubre (10/10)
-Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Willin](https://willinn.io/) y [Holberton School](https://holbertonschool.uy/).
+Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Willinn](https://willinn.io/) y [Holberton School](https://holbertonschool.uy/).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/304077194/).
 
