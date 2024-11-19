@@ -12,7 +12,7 @@
 * [Meetup](https://www.meetup.com/OWASP-Uruguay-Chapter)
 * [Twitter](https://twitter.com/owasp_uy)
 * [Github](https://github.com/OWASP-Uruguay)
-* [YouTube](https://www.youtube.com/channel/UC0-Z2Mufb062rREkmmEHTHQ)
+* [YouTube](https://www.youtube.com/@owasp_uy)
 * [LinkedIn](https://www.linkedin.com/groups/3673287/)
 
 ### Active members
