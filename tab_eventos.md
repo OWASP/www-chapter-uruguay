@@ -24,7 +24,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Secure Coding Dojo: El primer paso en el desarrollo seguro - [Gerardo Canedo](https://uy.linkedin.com/in/gcanedo) (OWASP Uruguay). Presentación [aquí](https://github.com/OWASP/SecureCodingDojo/blob/main/workshop/es/SecureCoding101.pptx).
 
 #### Imágenes:
-{% include carousel.md name="meetup_10_2024" data=site.data.meetup_10_2024 id=21 %}
+{% include carousel.md name="meetup_10_2024" data=site.data.meetup_10_2024 id=23 %}
 
 
 ### Meetup de setiembre (10/09)
@@ -37,7 +37,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Historias de ransomware - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1rz6iYW_8MZnMMdF6srE9V_QOd1hZDRDo/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true).
 
 #### Imágenes:
-{% include carousel.md name="meetup_09_2024" data=site.data.meetup_09_2024 id=20 %}
+{% include carousel.md name="meetup_09_2024" data=site.data.meetup_09_2024 id=22 %}
 
 
 ### Meetup de agosto (14/08)
@@ -50,7 +50,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Cómo hackearán a tu familia - [Hector "Chiche" Pardiñas](https://www.linkedin.com/in/hector-pardi%C3%B1as-40301460/). Presentación [aquí](https://drive.google.com/file/d/1oal6YDAeNMdYyt3gtevdHG1hWHS-DQei/view?usp=sharing).
 
 #### Imágenes:
-{% include carousel.md name="meetup_08_2024" data=site.data.meetup_08_2024 id=19 %}
+{% include carousel.md name="meetup_08_2024" data=site.data.meetup_08_2024 id=21 %}
 
 
 ### Meetup de julio (16/07)
@@ -63,7 +63,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Bug bounty 101 - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1UuuAlZQzb-hS24XPT7qY9N1XZ4qGS3DuuQi-aMHa4-A/), con referencia a una pasada que se encuentra más abajo en la sección de 2019.
 
 #### Imágenes:
-{% include carousel.md name="meetup_07_2024" data=site.data.meetup_07_2024 id=18 %}
+{% include carousel.md name="meetup_07_2024" data=site.data.meetup_07_2024 id=20 %}
 
 
 ### Meetup de junio (11/06)
@@ -76,7 +76,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Descubriendo tesoros ocultos en el mundo Java - [Andrés Gómez](https://www.linkedin.com/in/andresgo/). Presentación pendiente para publicar, temporalmente referirse a la [versión presentada en Ekoparty 2023](https://www.youtube.com/watch?v=sMfoCWLbTzY).
 
 #### Imágenes:
-{% include carousel.md name="meetup_06_2024" data=site.data.meetup_06_2024 id=17 %}
+{% include carousel.md name="meetup_06_2024" data=site.data.meetup_06_2024 id=19 %}
 
 
 ### IT Builders Live (25/05)
@@ -97,7 +97,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * Diseño y modelado de amenazas - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) y [Gerardo Canedo](https://uy.linkedin.com/in/gcanedo) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1B1f999-z9pNlUoJb4g5I1U2zV3IdLBMh_Uf-iR2eDYA/).
 
 #### Imágenes:
-{% include carousel.md name="meetup_05_2024" data=site.data.meetup_05_2024 id=16 %}
+{% include carousel.md name="meetup_05_2024" data=site.data.meetup_05_2024 id=18 %}
 
 
 ### Meetup de abril (16/04)
@@ -110,7 +110,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * ¿Qué tan bien conoces a tus vecinos? - [Sebastián Harreguy](https://www.linkedin.com/in/sebasti%C3%A1n-harreguy-alfonso-40340315a/). Presentación [aquí](https://drive.google.com/file/d/1E5ogW0NlkWrJi1NHW7fubyY3E18QB-lM/view?usp=drive_link).
 
 #### Imágenes:
-{% include carousel.md name="meetup_04_2024" data=site.data.meetup_04_2024 id=15 %}
+{% include carousel.md name="meetup_04_2024" data=site.data.meetup_04_2024 id=17 %}
 
 
 
@@ -133,7 +133,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * [Introducción a OWASP Secure Coding Dojo](https://github.com/OWASP/SecureCodingDojo/blob/main/workshop/es/SecureCoding101.pptx) (como parte de la preparación de este proyecto se colaboró con dicho proyecto traduciendo la presentación al español y compartiéndola con la comunidad).
 
 #### Imágenes:
-{% include carousel.md name="meetup_devmode_10_2023" data=site.data.meetup_devmode_10_2023 id=14 %}
+{% include carousel.md name="meetup_devmode_10_2023" data=site.data.meetup_devmode_10_2023 id=16 %}
 
 
 ### Introducción a la seguridad de aplicaciones - Edición agosto (29/08)
@@ -147,7 +147,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2023_day_2" data=site.data.appsec_intro_2023_day_2 id=13 %}
+{% include carousel.md name="appsec_intro_2023_day_2" data=site.data.appsec_intro_2023_day_2 id=15 %}
 
 
 ### Introducción a la seguridad de aplicaciones - Edición julio (27/07)
@@ -163,7 +163,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 * [Introducción al OWASP Top 10 y desarrollo de la jornada](https://drive.google.com/file/d/1pKhMk8l0zSs5UaaYV1ttFv4h9eDmTGKT/view?usp=drive_link), con los desafíos que se plantearon para la práctica.
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2023_day_1" data=site.data.appsec_intro_2023_day_1 id=12 %}
+{% include carousel.md name="appsec_intro_2023_day_1" data=site.data.appsec_intro_2023_day_1 id=14 %}
 
 
 ### Cyber range (06/07)
@@ -173,7 +173,7 @@ AGESIC invitó a la comunidad de OWASP Uruguay a realizar un entrenamiento utili
 Se llevó a cabo el 6 de julio de 18:00 a 21:00 en Facultad de Ingeniería de ORT. [Gerardo Canedo](https://www.linkedin.com/in/gcanedo/) y [Mauro Flores](https://www.linkedin.com/in/mauro-flores-72855922/) fueron quienes impartieron el entramiento.
 
 #### Imágenes:
-{% include carousel.md name="cyber_range_07_2023" data=site.data.cyber_range_07_2023 id=11 %}
+{% include carousel.md name="cyber_range_07_2023" data=site.data.cyber_range_07_2023 id=13 %}
 
 
 ### IT Builders Live (27/05)
@@ -185,7 +185,7 @@ El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com
 [Presentación: IT Builders - Seguridad en APIs](https://drive.google.com/file/d/1aMw9v9OQlG5fTHVp8h9QSlP-qNcCg7RQ/view?usp=sharing) sin videos.
 
 #### Imágenes:
-{% include carousel.md name="itbuilders_2023" data=site.data.itbuilders_2023 id=10 %}
+{% include carousel.md name="itbuilders_2023" data=site.data.itbuilders_2023 id=12 %}
 
 
 ### Meetup "SQLi en la práctica: De la explotación a la prevención" (02/05)
@@ -197,7 +197,7 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 [Material público utilizado en la exposición](https://owasp-uruguay.github.io/sqli-en-la-practica/) creado por OWASP Uruguay.
 
 #### Imágenes:
-{% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=9 %}
+{% include carousel.md name="meetup_ucu_2023" data=site.data.meetup_ucu_2023 id=11 %}
 
 
 
@@ -210,7 +210,7 @@ Cuarta de la serie de reuniones mensuales presenciales última del 2022, siguien
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289988996/).
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=8 %}
+{% include carousel.md name="appsec_intro_2022_day_4" data=site.data.appsec_intro_2022_day_4 id=10 %}
 
 
 ### Meetup de charlas por OWASP Uruguay + invitados (23/11)
@@ -229,7 +229,7 @@ Algunos enlaces útiles mencionados en el video:
 * [Corda Enterprise 4.8 - Security Controls Checklist](https://cloudsecurityalliance.org/artifacts/corda-enterprise-architecture-security-controls-checklist/)
 
 #### Imágenes:
-{% include carousel.md name="meetup_ort_2022" data=site.data.meetup_ort_2022 id=7 %}
+{% include carousel.md name="meetup_ort_2022" data=site.data.meetup_ort_2022 id=9 %}
 
 
 ### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
@@ -239,7 +239,7 @@ Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/).
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2022_day_3" data=site.data.appsec_intro_2022_day_3 id=6 %}
+{% include carousel.md name="appsec_intro_2022_day_3" data=site.data.appsec_intro_2022_day_3 id=8 %}
 
 
 ### Introducción a la seguridad de aplicaciones - Edición octubre (13/10)
@@ -248,7 +248,7 @@ Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de 
 Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/events/288804543/).
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2022_day_2" data=site.data.appsec_intro_2022_day_2 id=5 %}
+{% include carousel.md name="appsec_intro_2022_day_2" data=site.data.appsec_intro_2022_day_2 id=7 %}
 
 
 ### Introducción a la seguridad de aplicaciones - Edición septiembre (13/09)
@@ -264,7 +264,7 @@ Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/e
 * [Introducción a la jornada](https://drive.google.com/file/d/124HnABLbnpVpxrQJn0-l95CHcF_s_Mv-/view?usp=sharing), con enlaces a varios recursos y objetivos del evento.
 
 #### Imágenes:
-{% include carousel.md name="appsec_intro_2022_day_1" data=site.data.appsec_intro_2022_day_1 id=4 %}
+{% include carousel.md name="appsec_intro_2022_day_1" data=site.data.appsec_intro_2022_day_1 id=6 %}
 
 
 ### OWASP Day! OWASP Top 10 2021 y continuación SDLC con OWASP (requerimientos)
@@ -395,7 +395,7 @@ Se realizó la 1era Meetup el día 16 de noviembre en el Aulario de la Facultad 
 * OWASP y OWASP Uruguay: introducción y 2020. [Martin Marsicano](https://uy.linkedin.com/in/martinmarsicano) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1KWmiBMCsW7dCHtYsqBb7DSBnYgvSJG-k/view?usp=sharing).
 
 #### Imágenes:
-{% include carousel.md name="meetup_2019" data=site.data.meetup_2019 id=3 %}
+{% include carousel.md name="meetup_2019" data=site.data.meetup_2019 id=5 %}
 
 
 ### OWASP LATAM TOUR 2019
@@ -409,7 +409,7 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 * Integración y automatización de seguridad en procesos de desarrollo ágiles. [Guillermo Gabarrín](https://www.linkedin.com/in/guillermo-gabarrin/es) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/1wyPVhfCcCqKEhEfSryI9esxfHJ0yG0BF/view?usp=sharing).
 
 #### Imágenes:
-{% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 id=2 %}
+{% include carousel.md name="latam_tour_2019" data=site.data.latam_tour_2019 id=4 %}
 
 
 
@@ -419,7 +419,7 @@ Se realizó el OWASP LATAM TOUR 2019 el día 7 de junio en la sala Bauzá de la 
 Se realizó en Durazno el OWASP Day UTEC el día 23 de octubre en la Universidad Tecnológica en su sede ITR Centro Sur.
 
 #### Imágenes:
-{% include carousel.md name="owasp_day_utec_2018" data=site.data.owasp_day_utec_2018 id=1 %}
+{% include carousel.md name="owasp_day_utec_2018" data=site.data.owasp_day_utec_2018 id=3 %}
 
 
 ### OWASP LATAM TOUR 2018
@@ -433,7 +433,7 @@ Se realizó el OWASP LATAM TOUR 2018 el día 6 de abril de 2018 en la Universida
 * Attacking Wordpress plugins with no-style nor time. Ezequiel Tavella / Gabriel Franco (infobyte). Presentación [aquí](https://drive.google.com/a/owasp.org/file/d/14dJAafifDU-830RAmpvDWDnK5gsdZcAP/view?usp=sharing).
 
 #### Imágenes:
-{% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=0 %}
+{% include carousel.md name="latam_tour_2018" data=site.data.latam_tour_2018 id=2 %}
 
 
 
@@ -444,10 +444,14 @@ Se realizó el OWASP DAY 2017 en la UM el 29 de agosto. [Link del evento](https:
 
 
 ### OWASP LATAM TOUR 2017 - URUGUAY
-Se realizó el OWASP LATAM TOUR 2017 en Uruguay del 5 al 6 de abril de 2017. El 5 son los talleres en el Hotel IBIS, y el 6 es la conferencia en Facultad de Ingenieria UDELAR.
+Se realizó el OWASP LATAM TOUR 2017 en Uruguay del 5 al 6 de abril de 2017. El 5, talleres en el Hotel IBIS, y el 6 la conferencia en Facultad de Ingeniería UDELAR. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2017#tab=URUGUAY)
 
-## Nos volvimos locos y liberamos el material del trainig OWASP TOP 10 Hands on durante el OWASP LATAM TOUR 2017 - URUGUAY - DESCARGA GRATUITA
-Descargar [aqui](https://drive.google.com/drive/folders/0B6zv033D1iK9eTJId2RhZkJFTlk?usp=sharing) el taller OWASP Top 10 Hands On basado en OWASP Top 10 y Juice Shop
+#### Presentaciones:
+* Esoteric Web Application Vulnerabilities. Andrés Riancho. Presentación [aqui](https://speakerdeck.com/andresriancho/esoteric-web-application-vulnerabilities-1)
+
+#### Training:
+Nos volvimos locos y liberamos el material del trainig OWASP TOP 10 Hands on durante el OWASP LATAM TOUR 2017 - URUGUAY - DESCARGA GRATUITA.
+Descargar [aquí](https://drive.google.com/drive/folders/0B6zv033D1iK9eTJId2RhZkJFTlk?usp=sharing) el taller OWASP Top 10 Hands On basado en OWASP Top 10 y Juice Shop
 
 
 
@@ -458,11 +462,11 @@ Se realizó el OWASP APPSEC RIO DE LA PLATA 2016 en Uruguay del 1 al 2 de diciem
 
 
 ### 22 September 2016 - Builders & Defenders 101 (B&D101) (MONTEVIDEO)
-En este evento queremos invitar a la comunidad de desarrollo y administración de sistemas a conocer algunos principios básicos de la seguridad informática. No creemos en largas exposiciones, sino en trabajo práctico. Trae tu laptop y sumate al desafío que plantearemos. El evento se realizó en Andes y 18 ( oficinas de AGESIC ), piso 7, Montevideo, Uruguay de 18:30 a 21:30hs. El registro es gratuito pero solo hay 50 cupos. ´[Haga clic aqui para acceder al evento](https://www.eventbrite.com/e/builders-defenders-101-bd101-tickets-27423701028)
+Se realizó un evento en el que se invitó a la comunidad de desarrollo y administración de sistemas para conocer algunos principios básicos de la seguridad informática de manera práctica. El evento se realizó en Andes y 18 (oficinas de AGESIC), piso 7, Montevideo, Uruguay de 18:30 a 21:30hs. [Link del evento](https://www.eventbrite.com/e/builders-defenders-101-bd101-tickets-27423701028)
 
 
 ### OWASP LATAM TOUR 2016 (MONTEVIDEO)
-Se realizó la conferencia gratuita OWASP LATAM TOUR 2016! Y el evento en Uruguay será el 21 de abril de 2016 en la Universidad ORT Uruguay
+Se realizó la conferencia gratuita OWASP LATAM TOUR 2016! Y el evento en Uruguay será el 21 de abril de 2016 en la Universidad ORT Uruguay. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2016#tab=URUGUAY)
 
 
 
@@ -473,47 +477,77 @@ Se realizó el OWASP APPSEC RIO DE LA PLATA en Uruguay del 2 al 3 de diciembre d
 
 
 ### OWASP Latam Tour 2015 in Uruguay
-Se realizó el OWASP Latam Tour Uruguay en la Universidad Católica el día 15 de abril de 2015.
+Se realizó el OWASP Latam Tour Uruguay en la Universidad Católica el día 15 de abril de 2015. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2015#URUGUAY)
+
+#### Presentaciones:
+* Seguridad en Certificados Digitales - Certificate Pinning. Cristian Borghello (Segu-Info). Presentación [aquí](https://drive.google.com/file/d/1gCKjKJT1lV6pc_B1sqN-2AzCOaSh78Tq/view?usp=sharing)
 
 
 
 ## 2014
 
 ### OWASP LATAM TOUR 2014 in URUGUAY!
-Se realizó el OWASP LATAM TOUR 2014 en Montevideo durante los días 29 y 30 de abril.
+Se realizó el OWASP LATAM TOUR 2014 en Montevideo durante los días 29 y 30 de abril. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2014)
+
+#### Presentaciones:
+* Open Cyber Security Framework Project. Mateo Martinez (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1dJUmcGqic1fsKSb0sf5J1J0GJqB9Rj3y/view?usp=sharing)
+* Seguridad en Aplicaciones: Al infinito... y más allá!	Fabio Cerullo (OWASP Irlanda). Presentación [aquí](https://drive.google.com/file/d/1-FvuWyXPRAKUziSyrK8lfZ0BJq1-_UlZ/view?usp=sharing)
+* Testing de Web Sockets con OWASP ZAP. Cristian Borghello. Presentación [aquí](https://drive.google.com/file/d/1hIE1O6T8vwji_f6i_4kSu1kyJ8L1I8jX/view?usp=sharing)
 
 
 
 ## 2013
 
 ### OWASP DAY
-Se realizó el OWASP Day Uruguay en FING el día 12 de noviembre de 2013.
+Se realizó el OWASP Day Uruguay en FING el día 12 de noviembre de 2013. [Link del evento](https://wiki.owasp.org/index.php/OWASP_Day_Uruguay_2013_FING)
+
+#### Presentaciones:
+* Experiencias de la OEA en el fortalecimiento de las capacidades en Seguridad Cibernética en las Americas. Diego Subero (OEA). Presentación [aquí](https://drive.google.com/file/d/1VqsTjAzKmmtUsQAHyTFtUigsF_q0Oarr/view?usp=sharing)
+* Ejemplos Prácticos de Hacking a un E-Commerce. Mateo Martínez (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1Xly9z102tOZIWe_HndNr5H4u7Is9E5rC/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true)
+* Aprovechando OWASP para certificar una aplicación de pagos. Alvaro Rodríguez (PAYTRUE). Presentación [aquí](https://drive.google.com/file/d/1L75VENSTNltidqKRzGctEs08xBApckBv/view?usp=sharing)
+* In-seguridad y malware en dispositivos móviles. Damián Muraña (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1QoX-cMKOKNCmdfiYRx2pDUeCduzpCWDD/view?usp=sharing)
+* Protegiendo activos de información bajo CRSP de OWASP. Rafael Alvarez. Presentación [aquí](https://drive.google.com/file/d/1pjGEbrTgqX1fYwod1HvFOd2bTz5EG9Tz/view?usp=sharing)
+* Enseñando Seguridad de Aplicaciones: ¿qué hemos aprendido? Felipe Zipitría (OWASP - FING). Presentación [aquí](https://drive.google.com/file/d/18C3GHrK51SbUIU3lIAH87rSKOJW3uCo4/view?usp=sharing)
+
+#### Imágenes:
+{% include carousel.md name="owasp_day_2013" data=site.data.owasp_day_2013 id=1 %}
 
 
 ### OWASP DAY
-Se realizó el OWASP Day Uruguay en Universidad ORT el día 9 de julio de 2013 a partir de las 19 hs en la sede de Cuareim.
+Se realizó el OWASP Day Uruguay en Universidad ORT el día 9 de julio de 2013 a partir de las 19 hs en la sede de Cuareim. [Link del evento](https://wiki.owasp.org/index.php/OWASP_Day_Uruguay_2013_ORT)
+
+#### Presentaciones:
+* OWASP Top 10 2013. Felipe Zipitria (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1_prna2l5l9o_GHtE2Kw6n3f2avBEvcHf/view?usp=sharing)
 
 
 ### OWASP LATAM Tour 2013 - IN MONTEVIDEO!!!
-La clásica conferencia regional de seguridad OWASP LATAM Tour se desarrollará en la Universidad Católica, en Montevideo durante los días 4 y 5 de abril.
+La clásica conferencia regional de seguridad OWASP LATAM Tour se desarrolló en la Universidad Católica, en Montevideo durante los días 4 y 5 de abril. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2013)
+
+#### Presentaciones:
+* PCI para desarrolladores.	Fabio Cerullo (OWASP Irlanda). Presentación [aquí](https://prezi.com/bstoidp9nanx/pci-para-desarrolladores/)
+* OWASP Testing Guide. Paola Rodríguez (Verifone). Presentación [aquí](https://docs.google.com/presentation/d/1o2c1BGTQnxcO0caiO27pBDPbJreaHgH3/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true)
+* Trucos para jugar con la criptografía en los desarrollos.	Cristian Borghello (Segu-Info). Presentación [aquí](https://drive.google.com/file/d/1-TlWuhk4Rgcgp9nAt5C1vr8Ez_TiP-72/view?usp=sharing)
+* Secure infrastructure as code: How I built w3af.org. Andrés Riancho (Argentina). Link [aquí](https://wiki.owasp.org/index.php/LatamTour2013-SecureInfrastructureAsCode)
+* Rainbow Tables para revisiones de seguridad. Maximiliano Alonzo (TIB). Presentación [aquí](https://drive.google.com/file/d/1k8e9o68S7HhLi6BUdEMpNHb10_SvBVkR/view?usp=sharing)
+* Lecciones aprendidas, llevando la seguridad al siguiente nivel en una Software House.	Gerardo Canedo (Genexus Consulting). Presentación [aquí](https://docs.google.com/presentation/d/1-nzCiMwIpssUnFRP160e4C4_-kqfxe-F/edit?usp=sharing&ouid=115130829364614950585&rtpof=true&sd=true)
 
 
 
 ## 2012
 
 ### OWASP AppSec Latam 2012 - IN MONTEVIDEO!!!
-La Conferencia global de seguridad OWASP AppSec se desarrollará en ANTEL, en Montevideo durante los días 18, 19, 20 y 21 de noviembre.
+La Conferencia global de seguridad OWASP AppSec se desarrolló en ANTEL, en Montevideo durante los días 18, 19, 20 y 21 de noviembre. [Link del evento](https://wiki.owasp.org/index.php/AppSecLatam2012)
 
 
 ### OWASP Latam Tour
-OWASP Latam Tour en Uruguay el próximo 16 de mayo! A partir de las 18hs en el Aulario al lado de Facultad de Ingeniería.
+El OWASP Latam Tour se desarrolló en Uruguay el 16 de mayo en el Aulario al lado de Facultad de Ingeniería. [Link del evento](https://wiki.owasp.org/index.php/LatamTour2012#tab=Montevideo)
 
 
 
 ## 2011
 
 ### Se realizó el 2nd OWASP DAY URUGUAY!!
-El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el pasado 26 de julio de 2011, el 2do OWASP DAY Uruguay.
+El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el 26 de julio de 2011, el 2do OWASP DAY Uruguay. [Link del evento](https://wiki.owasp.org/index.php?title=OWASP_Day_Uruguay_2011)
 
 
 
@@ -521,7 +555,14 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 
 ### Se realizó el 1st OWASP DAY URUGUAY!!
 
-El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el pasado 9 de Diciembre de 2010, la conferencia: <b>Seguridad en Aplicaciones Web: “Entendiendo las armas del enemigo”, con el auditorio lleno.
+El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el 9 de Diciembre de 2010, la conferencia: <b>Seguridad en Aplicaciones Web: “Entendiendo las armas del enemigo”, con el auditorio lleno. [Link del evento](http://wiki.owasp.org/index.php?title=OWASP_Day_Uruguay_2010)
+
+#### Presentaciones:
+* OWASP Top Ten 2010: ¿otra vez sopa? Mateo Martinez (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1KTK5Gq3UCkzj2WG55RKMlwmmnnfH_391/view?usp=sharing)
+* Diez formas de escribir código (in)seguro. Cristian Borghello (Segu-Info). Presentación [aquí](https://drive.google.com/file/d/1vhsNkpJCehShlw_2SFrksCh9hLlmhDR3/view?usp=sharing)
+
+#### Imágenes:
+{% include carousel.md name="owasp_day_2010" data=site.data.owasp_day_2010 id=0 %}
 
 
 
@@ -529,6 +570,7 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 <style>
 * {box-sizing: border-box}
 /* Must change when adding one new carousel */
+.owasp_day_2010, .owasp_day_2013,
 .latam_tour_2018, .owasp_day_utec_2018, .latam_tour_2019, .meetup_2019, 
 .appsec_intro_2022_day_1, .appsec_intro_2022_day_2, .appsec_intro_2022_day_3,
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
@@ -572,12 +614,20 @@ img {vertical-align: middle}
   right: 0;
   border-radius: 3px 0 0 3px;
 }
+h2 {
+  margin-top: 50px;
+}
+#siguientes-meetupeventos {
+  margin-top: 0px;
+}
 </style>
 <script>
 /* Must change when adding one new carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when adding one new carousel */
 var slideId = [
+  "owasp_day_2010",
+  "owasp_day_2013",
   "latam_tour_2018", 
   "owasp_day_utec_2018", 
   "latam_tour_2019", 
@@ -600,7 +650,7 @@ var slideId = [
   "meetup_08_2024",
   "meetup_09_2024",
   "meetup_10_2024"
-  ];
+];
 /* Must change when adding one new carousel */
 showSlides(1, 0);
 showSlides(1, 1);
@@ -624,6 +674,8 @@ showSlides(1, 18);
 showSlides(1, 19);
 showSlides(1, 20);
 showSlides(1, 21);
+showSlides(1, 22);
+showSlides(1, 23);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
