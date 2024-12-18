@@ -14,6 +14,25 @@ tags: Uruguay
 
 ## 2024
 
+### APPSEC Rio de la Plata 2024 (12/12)
+Se realizó el OWASP APPSEC RIO DE LA PLATA 2024 en Uruguay el 12 de diciembre de 2024 en el Auditorio de ANTEL. [Link del evento](https://appsecriodelaplata.org/)
+
+#### Presentaciones:
+* Ransomware, ésta es nuestra experiencia. Erinson Abeldaño y Matías Marrero. Presentación [aquí](https://drive.google.com/file/d/1-VmsTFTfoq-r_xSSUE8WY83swHxFumK7/view?usp=sharing)
+* Intrusos en el ciberespionaje: Isoon leaks, hackers al servicio de China. Santiago Ingold. Presentación [aquí](https://drive.google.com/file/d/109WSnHsyCCv4aNZD7qlYKj0CEKOUJuX_/view?usp=sharing)
+* SQLi: Gestión de Incidentes con un enfoque práctico. Pablo Alzuri. Presentación y materiales [aquí](https://github.com/palzuri/demo-forense-sqli)
+* Tectonic: Un Cyber Range Académico, opensource. Juan Diego Campo. Presentación [aquí](https://drive.google.com/file/d/1-i7gaoqxlGA6xYTD8xk0ViveIbhDNR1-/view?usp=sharing)
+* Security by Design. Maximiliano Alonzo. Presentación [aquí](https://drive.google.com/file/d/1-fod7TFKo1T7gPi3GcvQzLEQAEf1tud3/view?usp=sharing)
+* Deep Dive on API Security de cero a experto en 30 minutos. Matías Ferreira. Presentación [aquí](https://drive.google.com/file/d/10BC06MjS5mkLkT7Wm2CKqgA_FcFmdpn3/view?usp=sharing)
+* WAFMind: Enfoque Inteligente para Detectar Amenazas en Tiempo Real. Rodrigo Martínez. Presentación [aquí](https://drive.google.com/file/d/10BVb_hHli4OU5Fn3OsMzn8wr2EJfRyJ8/view?usp=sharing)
+* AI - De Talos a las Redes Neuronales, un recorrido completo. Enrique Rossel. Presentación [aquí](https://drive.google.com/file/d/1-VaqJbWkkdJsWRs2DxFU4VtzrRA3Y7W3/view?usp=sharing)
+* Privacidad y anonimato a la carta. Rodrigo de la Fuente y Gabriel Carracelas. Presentación [aquí](https://drive.google.com/file/d/1-lLAQup5WYh6PadEj19zQIng7ZW5aYNj/view?usp=sharing)
+* Decoding HDMI Emissions with Deep Learning: Enhancing TEMPEST Eavesdropping on Digital Displays. Federico La Rocca. Presentación [aquí](https://docs.google.com/presentation/d/1S-7VamSH83PO4SVP0MF4b6sXobMIs3xtuVW7HSBzr1k/edit?usp=sharing)
+
+#### Imágenes:
+{% include carousel.md name="appsec_riodelaplata_2024" data=site.data.appsec_riodelaplata_2024 id=24 %}
+
+
 ### Meetup de octubre (10/10)
 Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Willinn](https://willinn.io/) y [Holberton School](https://holbertonschool.uy/).
 
@@ -80,7 +99,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 
 ### IT Builders Live (25/05)
-
 El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo dos espacios dedicados: la charla "Potenciales problemas de seguridad en LLMs" y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
 
 [Presentación: IT Builders - Potenciales problemas de seguridad en LLMs](https://docs.google.com/presentation/d/1jSAoBNPg668e4JuxKnJm93vBDVQkb9DGc_dM1BEws6w/).
@@ -117,14 +135,12 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 ## 2023
 
 ### Meetup Developer mode (24/10)
-
 Meetup orientada a desarrolladores siguiendo el formato de la jornada del 27/09 (ver más abajo). Se llevó a cabo en [GEOCOM Uruguay](https://maps.app.goo.gl/MG9tXBkgLLKaZT7s6).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/296685550/).
 
 
 ### Meetup Developer mode (27/09)
-
 En esta Meetup, se utilizó el proyecto OWASP [Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/) para introducir a los participantes en revisión de código y detección de vulnerabilidades. Esto mediante desafíos guiados y apoyo de expertos en seguridad de aplicaciones. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/296064633/).
@@ -137,7 +153,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 
 ### Introducción a la seguridad de aplicaciones - Edición agosto (29/08)
-
 Segunda de la serie de reuniones mensuales presenciales siguiendo el formato de la jornada del 27/07 (ver más abajo). Se llevó a cabo en [GeneXus Consulting](https://maps.app.goo.gl/UjHJnL5GwKyPSv35A).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/295521802/).
@@ -151,7 +166,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 
 ### Introducción a la seguridad de aplicaciones - Edición julio (27/07)
-
 Primera del año de una serie de reuniones enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Technisys Uruguay](https://goo.gl/maps/xhZKrNo6mnyLhXU67).
 
 Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Hubo **referentes/facilitadores**, colaboradores de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano. También se inició con una introducción al OWASP Top 10 2021.
@@ -167,7 +181,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 
 ### Cyber range (06/07)
-
 AGESIC invitó a la comunidad de OWASP Uruguay a realizar un entrenamiento utilizando su plataforma de cyber range, que permite simular ataques reales en una infraestructura. En esta oportunidad se utilizó un escenario de ataque para poder detectarlo y responder a este.
 
 Se llevó a cabo el 6 de julio de 18:00 a 21:00 en Facultad de Ingeniería de ORT. [Gerardo Canedo](https://www.linkedin.com/in/gcanedo/) y [Mauro Flores](https://www.linkedin.com/in/mauro-flores-72855922/) fueron quienes impartieron el entramiento.
@@ -177,7 +190,6 @@ Se llevó a cabo el 6 de julio de 18:00 a 21:00 en Facultad de Ingeniería de OR
 
 
 ### IT Builders Live (27/05)
-
 El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com/) en Antel Arena. Hubo tres espacios dedicados: un taller a modo de resumen del contenido de las meetups de la serie "Introducción a la seguridad de aplicaciones", la conferencia "Seguridad en APIs" presentando el OWASP API Top 10 (2023 RC) y una ronda de presentación con intercambio mano a mano entre los asistentes (espacio meetup).
 
 [Presentación utilizada en el taller](https://drive.google.com/file/d/1HAPsF2sU7jvK4vmvRDjJ6OEt-HBPXfJf/view?usp=sharing).
@@ -189,7 +201,6 @@ El capítulo participó del evento [IT Builders Live](https://itbuilderslive.com
 
 
 ### Meetup "SQLi en la práctica: De la explotación a la prevención" (02/05)
-
 Evento enfocado en inyecciones en SQL (SQLi), llevado a cabo en la Universidad Católica del Uruguay. Abordado desde más de una perspectiva, como individuo que ataca, que prueba la aplicación o que la desarrolla. Se presentaron los diferentes tipos de inyección, tips de detección y explotación y parte de las múltiples defensas.
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/292840705).
@@ -204,7 +215,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 ## 2022
 
 ### Introducción a la seguridad de aplicaciones - Edición diciembre (13/12)
-
 Cuarta de la serie de reuniones mensuales presenciales última del 2022, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Globant Uruguay](https://goo.gl/maps/oCAkGhu6GBjZRGWg8). 
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289988996/).
@@ -214,7 +224,6 @@ Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/even
 
 
 ### Meetup de charlas por OWASP Uruguay + invitados (23/11)
-
 Evento de charlas en la Facultad de Ingeniería de Universidad ORT. Se trató el tema diseño y modelado de amenazas con el caso práctico del sistema "Uruguay se vacuna", continuando con el ciclo de charlas de SDLC. También se mostró la aplicación de OWASP SAMM desde la experiencia vinculándolo con frameworks PCI y cómo impacta en la evaluación de madurez de una empresa y la estrategia de seguridad a seguir. Desde el exterior tuvimos una charla remota sobre seguridad en smart contracts con varios recursos guiando por dónde comenzar en el tema del testing en el área.
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289629669/).
@@ -233,7 +242,6 @@ Algunos enlaces útiles mencionados en el video:
 
 
 ### Introducción a la seguridad de aplicaciones - Edición noviembre (08/11)
-
 Tercera de la serie de reuniones mensuales presenciales, siguiendo el formato de las jornadas anteriores (ver más abajo). Se llevó a cabo en [Holberton School](https://holbertonschool.uy/). 
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/289363487/).
@@ -252,7 +260,6 @@ Página de [Meetup del evento](https://www.meetup.com/es/owasp-uruguay-chapter/e
 
 
 ### Introducción a la seguridad de aplicaciones - Edición septiembre (13/09)
-
 Primera de una serie de reuniones mensuales **presenciales**, enfocadas en lo **práctico** y en inspirar a nuevas generaciones y a personas que no están involucradas aún con la comunidad. Se llevó a cabo en [Switch Software Solutions](https://goo.gl/maps/mgiwWTx5Lqn5A17p9).
 
 Los asistentes tuvieron desafíos/objetivos comunes basados en el proyecto [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Hubo **referentes/facilitadores**, colaboradores de la comunidad con experiencia para apoyar en cualquier duda y generar conocimiento, mano a mano.
@@ -554,7 +561,6 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 ## 2010
 
 ### Se realizó el 1st OWASP DAY URUGUAY!!
-
 El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay el 9 de Diciembre de 2010, la conferencia: <b>Seguridad en Aplicaciones Web: “Entendiendo las armas del enemigo”, con el auditorio lleno. [Link del evento](http://wiki.owasp.org/index.php?title=OWASP_Day_Uruguay_2010)
 
 #### Presentaciones:
@@ -576,7 +582,7 @@ El Capítulo OWASP de Uruguay realizó en conjunto con Universidad ORT Uruguay e
 .meetup_ort_2022, .appsec_intro_2022_day_4, .meetup_ucu_2023, .itbuilders_2023,
 .cyber_range_07_2023, .appsec_intro_2023_day_1, .appsec_intro_2023_day_2, .meetup_devmode_10_2023,
 .meetup_04_2024, .meetup_05_2024, .meetup_06_2024, .meetup_07_2024, .meetup_08_2024, .meetup_09_2024,
-.meetup_10_2024 {
+.meetup_10_2024, .appsec_riodelaplata_2024 {
   display: none; 
   height: 600px;
 }
@@ -623,7 +629,7 @@ h2 {
 </style>
 <script>
 /* Must change when adding one new carousel */
-var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+var slideIndex = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 /* Must change when adding one new carousel */
 var slideId = [
   "owasp_day_2010",
@@ -649,7 +655,8 @@ var slideId = [
   "meetup_07_2024",
   "meetup_08_2024",
   "meetup_09_2024",
-  "meetup_10_2024"
+  "meetup_10_2024",
+  "appsec_riodelaplata_2024"
 ];
 /* Must change when adding one new carousel */
 showSlides(1, 0);
@@ -676,6 +683,7 @@ showSlides(1, 20);
 showSlides(1, 21);
 showSlides(1, 22);
 showSlides(1, 23);
+showSlides(1, 24);
 
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
