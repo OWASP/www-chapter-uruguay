@@ -11,6 +11,9 @@ tags: Uruguay
 Debajo se encuentran los links a las minutas de cada reunión.
 
 ## 2025
+* [Uruguay-Minuta-11-jun-2025](https://docs.google.com/document/d/1yrWNwy0XtQw3UBWzDcz-EZvQoo5ZyHg1bQOwEwKs0wU/edit?usp=sharing)
+* [Uruguay-Minuta-14-may-2025](https://docs.google.com/document/d/1UOTmfUs16gtPoh7wS_2AH3yderOOLl1T7Nd-__JPUs4/edit?usp=sharing)
+* [Uruguay-Minuta-09-apr-2025](https://docs.google.com/document/d/1Aay__UTbv5ga5KBil3N2kGj5VEA_FT-8NvpGsbwdvME/edit?usp=sharing)    
 * [Uruguay-Minuta-12-mar-2025](https://docs.google.com/document/d/1mHEfF7oov_uyCE35iraCEz5IZkK1qhZJ6Uqj7SH-GH0/edit?usp=sharing)
 * [Uruguay-Minuta-12-feb-2025](https://docs.google.com/document/d/1YSc5xHm4_oqXE75fYRPFhVfTYmw518aeXTChSCQ6CXg/edit?usp=sharing)
 
