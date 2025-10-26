@@ -1,0 +1,28 @@
+leaders:
+  - name: Martín Marsicano
+    email: martin.marsicano@owasp.org
+    github: martinmarsicano
+  - name: Mateo Martínez
+    email: mateo.martinez@owasp.org
+    github: mateo-martinez
+  - name: Pablo Alzuri
+    email: pablo.alzuri@owasp.org
+    github: palzuri
+location:
+  country: Uruguay
+  country_code: UY
+  region: Montevideo Department
+  city: Montevideo
+  latitude: -32.8755548
+  longitude: -56.0201525
+meetup_group: OWASP-Uruguay-Chapter
+name: OWASP Uruguay
+repositories:
+  - name: www-chapter-uruguay
+    url: https://github.com/OWASP/www-chapter-uruguay
+    description: OWASP Foundation Web Repository
+tags:
+  - Uruguay
+  - Montevideo
+  - UY
+website: https://owasp.org/www-chapter-uruguay
