@@ -23,6 +23,6 @@ repositories:
     description: OWASP Foundation Web Repository
 tags:
   - Uruguay
-  - custom-tag-1
-  - custom-tag-2
+  - Montevideo
+  - UY
 website: https://owasp.org/www-chapter-uruguay
