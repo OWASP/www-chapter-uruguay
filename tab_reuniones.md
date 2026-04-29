@@ -10,21 +10,25 @@ tags: Uruguay
 
 Debajo se encuentran los links a las minutas de cada reunión.
 
+## 2026
+* [Uruguay-Minuta-08-apr-2026](https://docs.google.com/document/d/1LDLTjV9nlMAZmSZFmdtWRUUu82ihMWcndYgjv9yA6U4/edit?usp=sharing)
+
 ## 2025
+* [Uruguay-Minuta-10-dec-2025](https://docs.google.com/document/d/11L4iYu6PEoxBt6ChuVWZmCFfnHgbjWsJjleQlYlzY5s/edit?usp=sharing)
 * [Uruguay-Minuta-08-oct-2025](https://docs.google.com/document/d/1q97YSlmLikUbOgTcv7Olhn12drCAo-7aWdBYwrjoU3k/edit?usp=sharing)
 * [Uruguay-Minuta-10-sep-2025](https://docs.google.com/document/d/1B8k8flLzwq-iaXWXZVdVz-qJzFXSZ_0zu760WjjZ5jo/edit?usp=sharing)
-* [Uruguay-Minuta-13-ago-2025](https://docs.google.com/document/d/1MHBVQ9iECSJhuZXrOfAUMbJyzjqJsyRprFCuCmqplSQ/edit?usp=sharing)
+* [Uruguay-Minuta-13-aug-2025](https://docs.google.com/document/d/1MHBVQ9iECSJhuZXrOfAUMbJyzjqJsyRprFCuCmqplSQ/edit?usp=sharing)
 * [Uruguay-Minuta-11-jun-2025](https://docs.google.com/document/d/1yrWNwy0XtQw3UBWzDcz-EZvQoo5ZyHg1bQOwEwKs0wU/edit?usp=sharing)
 * [Uruguay-Minuta-14-may-2025](https://docs.google.com/document/d/1UOTmfUs16gtPoh7wS_2AH3yderOOLl1T7Nd-__JPUs4/edit?usp=sharing)
-* [Uruguay-Minuta-09-apr-2025](https://docs.google.com/document/d/1Aay__UTbv5ga5KBil3N2kGj5VEA_FT-8NvpGsbwdvME/edit?usp=sharing)    
+* [Uruguay-Minuta-09-apr-2025](https://docs.google.com/document/d/1Aay__UTbv5ga5KBil3N2kGj5VEA_FT-8NvpGsbwdvME/edit?usp=sharing)
 * [Uruguay-Minuta-12-mar-2025](https://docs.google.com/document/d/1mHEfF7oov_uyCE35iraCEz5IZkK1qhZJ6Uqj7SH-GH0/edit?usp=sharing)
 * [Uruguay-Minuta-12-feb-2025](https://docs.google.com/document/d/1YSc5xHm4_oqXE75fYRPFhVfTYmw518aeXTChSCQ6CXg/edit?usp=sharing)
 
 ## 2024
-* [Uruguay-Minuta-15-Nov-2024](https://docs.google.com/document/d/1cM-uUXR3H9uY1wEtX5lhggNZiUQMp3_hq0rJuZAR-F0/edit?usp=sharing)
+* [Uruguay-Minuta-15-nov-2024](https://docs.google.com/document/d/1cM-uUXR3H9uY1wEtX5lhggNZiUQMp3_hq0rJuZAR-F0/edit?usp=sharing)
 * [Uruguay-Minuta-09-oct-2024](https://docs.google.com/document/d/1w1lfYQ61HB2al67K1OoZtV0J9xH98TdNb2hR6oArjpA/edit?usp=sharing)
 * [Uruguay-Minuta-11-sep-2024](https://docs.google.com/document/d/12rHnABMilQV0oIsf5mTlY8_a7j6SJnCyYRtPrJVl974/edit?usp=sharing)
-* [Uruguay-Minuta-06-ago-2024](https://docs.google.com/document/d/10TTkwjfz4DgN6_a-f3BfQJvvYOnxinDyAFW9e7J8tUI/)
+* [Uruguay-Minuta-06-aug-2024](https://docs.google.com/document/d/10TTkwjfz4DgN6_a-f3BfQJvvYOnxinDyAFW9e7J8tUI/)
 * [Uruguay-Minuta-02-jul-2024](https://docs.google.com/document/d/1pQQcWYSX1nRdyBp4MgAtAChrhYw1Gm1rP_ALRcJ_gws/)
 * [Uruguay-Minuta-04-jun-2024](https://docs.google.com/document/d/1OrH0FMchGhHJ9W7ibtDe6NSE-p6VrP1MyRVo7upqYQY/)
 * [Uruguay-Minuta-03-may-2024](https://docs.google.com/document/d/1rEQ5ZgrayZgu7pYci7TJhCf0qcO7uSAW6DM67jVcI8g/)
