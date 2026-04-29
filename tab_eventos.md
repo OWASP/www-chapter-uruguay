@@ -7,8 +7,31 @@ tags: Uruguay
 ---
 # Eventos
 
-## Siguiente(s) Meetup/Evento(s)
-{% include chapter_events.html group=page.meetup-group %}
+## 2026
+
+### Meetup de abril (29/04)
+Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Loop Studio](https://loopstudio.dev/).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/306231898/).
+
+
+
+## 2025
+
+### OWASP APPSEC Days Uruguay 2025 (19-20/12)
+Se realizó el OWASP APPSEC Days 2025 en Uruguay el 19 y 20 de diciembre de 2025 en el Auditorio de ANTEL. [Link del evento](https://owasp-uruguay.github.io/)
+
+
+### Meetup de setiembre (30/09)
+Charlas de miembro del capítulo y charla de Marcos Martínez - CTO @LoopStudio [https://loopstudio.dev/], en el espacio ofrecido por [ISACA Montevideo Chapter](https://engage.isaca.org/montevideochapter/home).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/311079530/).
+
+
+### Meetup de marzo (13/03)
+Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Qubika](https://qubika.com/).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/306231898/).
 
 
 
