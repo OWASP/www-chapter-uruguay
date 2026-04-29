@@ -12,7 +12,7 @@ tags: Uruguay
 ### Meetup de abril (29/04)
 Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Loop Studio](https://loopstudio.dev/).
 
-Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/306231898/).
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314285626/).
 
 
 
