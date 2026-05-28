@@ -9,10 +9,24 @@ tags: Uruguay
 
 ## 2026
 
-### Meetup de abril (29/04)
-Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Loop Studio](https://loopstudio.dev/).
+### Meetup de mayo (27/05)
+Charlas de miembro del capítulo y el organizador, en el espacio ofrecido por [Qubika](https://qubika.com/).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314285626/).
+
+#### Presentaciones:
+* Las wordlists están muertas y los LLMs las mataron - [Diego Franggi](https://uy.linkedin.com/in/diego-franggi-9a43ba140). Presentación [aquí](https://docs.google.com/presentation/d/176k_OVYZlisG1YO-l7Cc2DDZmVf8FCEz/edit?usp=sharing).
+* Agente bajo fuego y Dr. Selby - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/12k4MT7TLBEndvAcCayr6bl8QvSwiPoGM/edit?usp=sharing).
+
+
+### Meetup de abril (29/04)
+Charlas de miembro del capítulo y el organizador, en el espacio ofrecido por [Loop Studio](https://loopstudio.dev/).
+
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314285626/).
+
+#### Presentaciones:
+* Secure development en la era de coding agents - [Marcos Martínez](https://uy.linkedin.com/in/marcos-martinez-ciompi) y Tiago Zarzavidjian (https://uy.linkedin.com/in/tiago-zarzavidjian). Presentación [aquí](https://drive.google.com/file/d/19ADgwqs-8V6pDQjE1Q0X4LlweXxnQmZf/view?usp=sharing).
+* Testing para que mis agentes no hagan cualquiera - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1bTvpALRbc7kl8QZAlDtzmzLDsY9CjhbCbUSGrhaZgG8/edit?usp=sharing).
 
 
 
@@ -27,11 +41,19 @@ Charlas de miembro del capítulo y charla de Marcos Martínez - CTO @LoopStudio 
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/311079530/).
 
+#### Presentaciones:
+* De la idea al producto: creando soluciones seguras para el mercado de ciberseguridad en EE. UU. - [Marcos Martínez](https://uy.linkedin.com/in/marcos-martinez-ciompi). Presentación [aquí](https://drive.google.com/file/d/1-iJCYSIFdd55M9U14G9pknvNEGz1kmDS/view?usp=sharing).
+* Caminos en ciberseguridad - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1TPMJGyeVThrtQzc5uicIVkoV8e0LfG2SFlD9M0v_k9s/edit?usp=sharing).
+
 
 ### Meetup de marzo (13/03)
 Charlas del organizador y miembro del capítulo, en el espacio ofrecido por [Qubika](https://qubika.com/).
 
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/306231898/).
+
+#### Presentaciones:
+* Hands-On Dive into the OWASP Top 10 for LLMs - [Diego Franggi](https://uy.linkedin.com/in/diego-franggi-9a43ba140). Presentación [aquí](https://drive.google.com/file/d/1pqJkJoByxE8Hq_V6EhhW1ka9RfmWr0DS/view?usp=sharing).
+* OWASP Top 10 para aplicaciones de LLM 2025 - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://drive.google.com/file/d/1DUQ-AMCHGR3oQwH2rbOVYyqYkszYYnFh/view?usp=sharing).
 
 
 
