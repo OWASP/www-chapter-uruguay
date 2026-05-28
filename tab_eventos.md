@@ -12,7 +12,7 @@ tags: Uruguay
 ### Meetup de mayo (27/05)
 Charlas de miembro del capítulo y el organizador, en el espacio ofrecido por [Qubika](https://qubika.com/).
 
-Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314285626/).
+Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314778247/).
 
 #### Presentaciones:
 * Las wordlists están muertas y los LLMs las mataron - [Diego Franggi](https://uy.linkedin.com/in/diego-franggi-9a43ba140). Presentación [aquí](https://docs.google.com/presentation/d/176k_OVYZlisG1YO-l7Cc2DDZmVf8FCEz/edit?usp=sharing).
@@ -25,7 +25,7 @@ Charlas de miembro del capítulo y el organizador, en el espacio ofrecido por [L
 Página de [Meetup del evento](https://www.meetup.com/owasp-uruguay-chapter/events/314285626/).
 
 #### Presentaciones:
-* Secure development en la era de coding agents - [Marcos Martínez](https://uy.linkedin.com/in/marcos-martinez-ciompi) y Tiago Zarzavidjian (https://uy.linkedin.com/in/tiago-zarzavidjian). Presentación [aquí](https://drive.google.com/file/d/19ADgwqs-8V6pDQjE1Q0X4LlweXxnQmZf/view?usp=sharing).
+* Secure development en la era de coding agents - [Marcos Martínez](https://uy.linkedin.com/in/marcos-martinez-ciompi) y [Tiago Zarzavidjian](https://uy.linkedin.com/in/tiago-zarzavidjian). Presentación [aquí](https://drive.google.com/file/d/19ADgwqs-8V6pDQjE1Q0X4LlweXxnQmZf/view?usp=sharing).
 * Testing para que mis agentes no hagan cualquiera - [Sebastián Passaro](https://uy.linkedin.com/in/sebastian-passaro) (OWASP Uruguay). Presentación [aquí](https://docs.google.com/presentation/d/1bTvpALRbc7kl8QZAlDtzmzLDsY9CjhbCbUSGrhaZgG8/edit?usp=sharing).
 
 
