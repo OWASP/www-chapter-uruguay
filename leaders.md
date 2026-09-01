@@ -1,5 +1,4 @@
 ### Leaders
 
-* [Martín Marsicano](mailto:martin.marsicano@owasp.org)
-* [Mateo Martínez](mailto:mateo.martinez@owasp.org)
-* [Pablo Alzuri](mailto:pablo.alzuri@owasp.org)
+* [Gerardo Canedo](mailto:gerardo.canedo@owasp.org)
+* [Sebastián Passaro](mailto:sebastian.passaro@owasp.org)
